@@ -4,7 +4,7 @@ import { getAllConnectorIds, getAllTestIds } from '@/lib/data';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://yourusername.github.io/french-by-examples'; // Update with your actual URL
+  const baseUrl = 'https://sunsetboy.github.io/french-by-examples';
 
   // Static pages
   const staticPages = [

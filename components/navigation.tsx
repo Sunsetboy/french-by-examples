@@ -39,7 +39,7 @@ export function Navigation() {
           </div>
           <div className="flex items-center space-x-4">
             <a
-              href="https://github.com/yourusername/french-by-examples"
+              href="https://github.com/Sunsetboy/french-by-examples"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100"

@@ -111,7 +111,7 @@ export default function Home() {
           of French connectors and expressions by contributing on GitHub.
         </p>
         <a
-          href="https://github.com/yourusername/french-by-examples"
+          href="https://github.com/Sunsetboy/french-by-examples"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-6 py-3 bg-gray-900 dark:bg-white text-white dark:text-gray-900 rounded-lg font-medium hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors"

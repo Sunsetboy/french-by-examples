@@ -16,7 +16,7 @@ Learn French connectors and expressions through practical examples. Make your Fr
 
 ## 🚀 Live Demo
 
-Visit [https://yourusername.github.io/french-by-examples](https://yourusername.github.io/french-by-examples)
+Visit [https://sunsetboy.github.io/french-by-examples](https://sunsetboy.github.io/french-by-examples)
 
 ## 🛠️ Tech Stack
 
@@ -137,7 +137,7 @@ questions:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/french-by-examples.git
+git clone https://github.com/Sunsetboy/french-by-examples.git
 cd french-by-examples
 ```
 
@@ -205,7 +205,7 @@ Inspired by [Go by Example](https://gobyexample.com/) - learning by practical ex
 
 ## 📬 Contact
 
-Questions or suggestions? [Open an issue](https://github.com/yourusername/french-by-examples/issues)
+Questions or suggestions? [Open an issue](https://github.com/Sunsetboy/french-by-examples/issues)
 
 ---
 

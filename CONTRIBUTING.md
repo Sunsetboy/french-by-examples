@@ -10,8 +10,8 @@ Connectors are the heart of this project. Here's how to add a new one:
 
 1. **Fork and Clone**
    ```bash
-   git fork https://github.com/yourusername/french-by-examples
-   git clone https://github.com/yourusername/french-by-examples
+   git fork https://github.com/Sunsetboy/french-by-examples
+   git clone https://github.com/Sunsetboy/french-by-examples
    cd french-by-examples
    ```
 
@@ -163,7 +163,7 @@ Found a mistake or have a better example? Great!
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/french-by-examples
+git clone https://github.com/Sunsetboy/french-by-examples
 cd french-by-examples
 
 # Install dependencies
@@ -199,9 +199,9 @@ types/             # TypeScript types
 
 ## Questions?
 
-- **General Questions**: Open a [Discussion](https://github.com/yourusername/french-by-examples/discussions)
-- **Bug Reports**: Open an [Issue](https://github.com/yourusername/french-by-examples/issues)
-- **Feature Requests**: Open an [Issue](https://github.com/yourusername/french-by-examples/issues) with the "enhancement" label
+- **General Questions**: Open a [Discussion](https://github.com/Sunsetboy/french-by-examples/discussions)
+- **Bug Reports**: Open an [Issue](https://github.com/Sunsetboy/french-by-examples/issues)
+- **Feature Requests**: Open an [Issue](https://github.com/Sunsetboy/french-by-examples/issues) with the "enhancement" label
 
 ## Recognition
 
