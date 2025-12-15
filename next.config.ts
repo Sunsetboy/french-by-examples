@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
     unoptimized: true, // Required for static export
   },
   // For GitHub Pages deployment with repository name
-  // basePath: '/french-by-examples', // Uncomment if deploying to username.github.io/repo-name
-  // assetPrefix: '/french-by-examples', // Uncomment if deploying to username.github.io/repo-name
+  basePath: '/french-by-examples',
+  assetPrefix: '/french-by-examples',
 };
 
 export default nextConfig;
