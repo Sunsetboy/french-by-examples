@@ -1,0 +1,24 @@
+term: "en fait"
+translation: "actually, in fact"
+type:
+  - emphasis
+  - opposition
+cefrLevel: "A2"
+formality: "informal"
+description: "Used to correct, clarify, or emphasize information. Very common in spoken French."
+usage: "Can be used at the beginning or middle of a sentence. Often used to introduce a correction or unexpected information."
+examples:
+  - french: "J'aime bien ce film. En fait, c'est mon préféré !"
+    english: "I like this movie. Actually, it's my favorite!"
+    context: "Emphasizing and strengthening a previous statement"
+  - french: "Je pensais qu'il était français, mais en fait, il est belge."
+    english: "I thought he was French, but actually, he's Belgian."
+    context: "Correcting previous information"
+  - french: "En fait, je ne suis pas d'accord avec toi."
+    english: "Actually, I don't agree with you."
+    context: "Introducing a contrasting opinion"
+synonyms:
+  - "en réalité"
+  - "en vérité"
+  - "à vrai dire"
+notes: "One of the most overused words in spoken French. Be careful not to use it excessively!"

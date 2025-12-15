@@ -1,0 +1,23 @@
+term: "du coup"
+translation: "so, as a result, therefore"
+type:
+  - consequence
+cefrLevel: "B1"
+formality: "informal"
+description: "Extremely popular in spoken French to indicate a consequence or result. Highly informal and very trendy."
+usage: "Used to connect two events where the second is a consequence of the first. Mainly used in speech and informal writing."
+examples:
+  - french: "Il pleut, du coup on reste à la maison."
+    english: "It's raining, so we're staying home."
+    context: "Direct consequence"
+  - french: "J'ai raté mon bus, du coup je suis arrivé en retard."
+    english: "I missed my bus, so I arrived late."
+    context: "Explaining a consequence"
+  - french: "Du coup, tu viens ou pas ?"
+    english: "So, are you coming or not?"
+    context: "Used at the beginning to ask about a conclusion"
+synonyms:
+  - "donc"
+  - "alors"
+  - "par conséquent"
+notes: "Very trendy in modern spoken French, especially among young people. Avoid in formal writing - use 'donc' or 'par conséquent' instead."

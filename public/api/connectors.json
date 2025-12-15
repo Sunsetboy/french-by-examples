@@ -1,0 +1,54 @@
+[
+  {
+    "id": "donc",
+    "term": "donc",
+    "translation": "so, therefore, thus",
+    "type": [
+      "consequence",
+      "conclusion"
+    ],
+    "cefrLevel": "A2",
+    "formality": "neutral"
+  },
+  {
+    "id": "du-coup",
+    "term": "du coup",
+    "translation": "so, as a result, therefore",
+    "type": [
+      "consequence"
+    ],
+    "cefrLevel": "B1",
+    "formality": "informal"
+  },
+  {
+    "id": "en-fait",
+    "term": "en fait",
+    "translation": "actually, in fact",
+    "type": [
+      "emphasis",
+      "opposition"
+    ],
+    "cefrLevel": "A2",
+    "formality": "informal"
+  },
+  {
+    "id": "en-revanche",
+    "term": "en revanche",
+    "translation": "on the other hand, however",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
+    "id": "par-ailleurs",
+    "term": "par ailleurs",
+    "translation": "moreover, furthermore, besides",
+    "type": [
+      "addition"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  }
+]

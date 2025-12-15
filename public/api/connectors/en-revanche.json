@@ -1,0 +1,36 @@
+{
+  "term": "en revanche",
+  "translation": "on the other hand, however",
+  "type": [
+    "opposition"
+  ],
+  "cefrLevel": "B2",
+  "formality": "formal",
+  "description": "Used to introduce an opposing or contrasting idea. More formal than 'par contre'.",
+  "usage": "Typically used at the beginning of a sentence or clause. Preferred in formal and written French.",
+  "examples": [
+    {
+      "french": "J'aime le thé. En revanche, je n'aime pas le café.",
+      "english": "I like tea. On the other hand, I don't like coffee.",
+      "context": "Expressing a contrasting preference"
+    },
+    {
+      "french": "Le projet est coûteux. En revanche, il sera très rentable.",
+      "english": "The project is expensive. However, it will be very profitable.",
+      "context": "Business context - formal setting"
+    },
+    {
+      "french": "Il fait froid aujourd'hui. En revanche, demain sera ensoleillé.",
+      "english": "It's cold today. On the other hand, tomorrow will be sunny.",
+      "context": "Contrasting weather conditions"
+    }
+  ],
+  "synonyms": [
+    "par contre",
+    "cependant",
+    "néanmoins",
+    "toutefois"
+  ],
+  "notes": "Preferred over 'par contre' in formal writing and professional contexts. Some purists consider 'par contre' incorrect, though it's widely used in speech.",
+  "id": "en-revanche"
+}

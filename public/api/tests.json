@@ -1,0 +1,14 @@
+[
+  {
+    "id": "basic-connectors",
+    "title": "Basic French Connectors",
+    "description": "Test your knowledge of common French connectors and their usage in everyday situations.",
+    "cefrLevel": "A2",
+    "types": [
+      "consequence",
+      "opposition",
+      "emphasis"
+    ],
+    "questionCount": 5
+  }
+]

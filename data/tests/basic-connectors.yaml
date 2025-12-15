@@ -1,0 +1,62 @@
+title: "Basic French Connectors"
+description: "Test your knowledge of common French connectors and their usage in everyday situations."
+cefrLevel: "A2"
+types:
+  - consequence
+  - opposition
+  - emphasis
+questions:
+  - id: "q1"
+    sentence: "Il pleut, ___ on reste à la maison."
+    correctAnswer: "du coup"
+    options:
+      - "du coup"
+      - "en revanche"
+      - "par ailleurs"
+      - "néanmoins"
+    explanation: "'Du coup' expresses a consequence. It's raining, so (as a result) we're staying home."
+    translation: "It's raining, so we're staying home."
+
+  - id: "q2"
+    sentence: "J'aime le thé. ___, je n'aime pas le café."
+    correctAnswer: "En revanche"
+    options:
+      - "Donc"
+      - "En revanche"
+      - "Du coup"
+      - "Par ailleurs"
+    explanation: "'En revanche' introduces a contrast or opposition. Liking tea but not coffee is a contrast."
+    translation: "I like tea. However, I don't like coffee."
+
+  - id: "q3"
+    sentence: "Je pensais qu'il était français, mais ___, il est belge."
+    correctAnswer: "en fait"
+    options:
+      - "donc"
+      - "en fait"
+      - "du coup"
+      - "par ailleurs"
+    explanation: "'En fait' is used to correct or clarify information. It introduces the actual truth."
+    translation: "I thought he was French, but actually, he's Belgian."
+
+  - id: "q4"
+    sentence: "Il est malade, ___ il ne viendra pas."
+    correctAnswer: "donc"
+    options:
+      - "en fait"
+      - "en revanche"
+      - "donc"
+      - "par ailleurs"
+    explanation: "'Donc' expresses a logical consequence. He's sick, so (therefore) he won't come."
+    translation: "He's sick, so he won't come."
+
+  - id: "q5"
+    sentence: "Ce restaurant est excellent. ___, les prix sont raisonnables."
+    correctAnswer: "Par ailleurs"
+    options:
+      - "Donc"
+      - "En fait"
+      - "Du coup"
+      - "Par ailleurs"
+    explanation: "'Par ailleurs' adds supplementary information. It introduces an additional positive aspect."
+    translation: "This restaurant is excellent. Moreover, the prices are reasonable."

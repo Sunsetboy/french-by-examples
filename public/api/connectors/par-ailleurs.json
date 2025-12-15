@@ -1,0 +1,36 @@
+{
+  "term": "par ailleurs",
+  "translation": "moreover, furthermore, besides",
+  "type": [
+    "addition"
+  ],
+  "cefrLevel": "B2",
+  "formality": "formal",
+  "description": "Used to add supplementary information or introduce a new aspect of the topic. Common in formal writing and presentations.",
+  "usage": "Typically used at the beginning of a sentence to introduce additional information that may be related but distinct from the previous point.",
+  "examples": [
+    {
+      "french": "Ce projet est innovant. Par ailleurs, il est économiquement viable.",
+      "english": "This project is innovative. Moreover, it is economically viable.",
+      "context": "Adding supporting information in a formal context"
+    },
+    {
+      "french": "Elle est compétente. Par ailleurs, elle a beaucoup d'expérience.",
+      "english": "She is competent. Furthermore, she has a lot of experience.",
+      "context": "Adding to a description in a professional setting"
+    },
+    {
+      "french": "Le restaurant est excellent. Par ailleurs, les prix sont raisonnables.",
+      "english": "The restaurant is excellent. Besides, the prices are reasonable.",
+      "context": "Adding complementary information"
+    }
+  ],
+  "synonyms": [
+    "de plus",
+    "en outre",
+    "qui plus est",
+    "également"
+  ],
+  "notes": "Very common in academic writing, business reports, and formal presentations. Less common in everyday conversation.",
+  "id": "par-ailleurs"
+}

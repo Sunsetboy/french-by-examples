@@ -1,0 +1,37 @@
+{
+  "term": "donc",
+  "translation": "so, therefore, thus",
+  "type": [
+    "consequence",
+    "conclusion"
+  ],
+  "cefrLevel": "A2",
+  "formality": "neutral",
+  "description": "A versatile connector used to express consequence or logical conclusion. Acceptable in both formal and informal contexts.",
+  "usage": "Can be used in both written and spoken French. Often placed after the subject in formal French.",
+  "examples": [
+    {
+      "french": "Je pense, donc je suis.",
+      "english": "I think, therefore I am.",
+      "context": "Famous philosophical statement (Descartes)"
+    },
+    {
+      "french": "Il est malade, donc il ne viendra pas.",
+      "english": "He's sick, so he won't come.",
+      "context": "Simple consequence"
+    },
+    {
+      "french": "Vous avez donc décidé de partir ?",
+      "english": "So you've decided to leave?",
+      "context": "Conclusion placed after the subject (more formal)"
+    }
+  ],
+  "synonyms": [
+    "par conséquent",
+    "ainsi",
+    "alors",
+    "du coup"
+  ],
+  "notes": "Unlike 'du coup', 'donc' is appropriate for all contexts including formal writing and academic texts.",
+  "id": "donc"
+}
