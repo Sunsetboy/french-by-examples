@@ -1,0 +1,105 @@
+{
+  "title": "Beginner Essentials",
+  "description": "Test your knowledge of the most basic and essential French connectors. Perfect for A1 learners starting their French journey.",
+  "cefrLevel": "A1",
+  "types": [
+    "opposition",
+    "addition",
+    "cause",
+    "time"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sentence": "J'aime le café ___ le thé.",
+      "correctAnswer": "et",
+      "options": [
+        "et",
+        "donc",
+        "ainsi",
+        "toutefois"
+      ],
+      "explanation": "'Et' (and) is used to connect two items in a list. The most basic connector in French.",
+      "translation": "I like coffee and tea."
+    },
+    {
+      "id": "q2",
+      "sentence": "J'aime le chocolat, ___ je n'aime pas les bonbons.",
+      "correctAnswer": "mais",
+      "options": [
+        "et",
+        "mais",
+        "ou",
+        "car"
+      ],
+      "explanation": "'Mais' (but) introduces a contrast. You like chocolate BUT not candy.",
+      "translation": "I like chocolate, but I don't like candy."
+    },
+    {
+      "id": "q3",
+      "sentence": "Je reste à la maison ___ il pleut.",
+      "correctAnswer": "parce que",
+      "options": [
+        "quand",
+        "parce que",
+        "si",
+        "donc"
+      ],
+      "explanation": "'Parce que' (because) explains the reason. You stay home BECAUSE it's raining.",
+      "translation": "I stay home because it's raining."
+    },
+    {
+      "id": "q4",
+      "sentence": "Tu veux du thé ___ du café ?",
+      "correctAnswer": "ou",
+      "options": [
+        "et",
+        "mais",
+        "ou",
+        "donc"
+      ],
+      "explanation": "'Ou' (or) presents a choice between two options. Tea OR coffee?",
+      "translation": "Do you want tea or coffee?"
+    },
+    {
+      "id": "q5",
+      "sentence": "___ est-ce que tu arrives ?",
+      "correctAnswer": "Quand",
+      "options": [
+        "Parce que",
+        "Mais",
+        "Quand",
+        "Donc"
+      ],
+      "explanation": "'Quand' (when) is used to ask about time. WHEN are you arriving?",
+      "translation": "When are you arriving?"
+    },
+    {
+      "id": "q6",
+      "sentence": "Il aime le sport ___ la musique.",
+      "correctAnswer": "et",
+      "options": [
+        "mais",
+        "ou",
+        "et",
+        "car"
+      ],
+      "explanation": "'Et' (and) connects two things that are both true. He likes sports AND music.",
+      "translation": "He likes sports and music."
+    },
+    {
+      "id": "q7",
+      "sentence": "Je suis fatigué ___ j'ai beaucoup travaillé.",
+      "correctAnswer": "parce que",
+      "options": [
+        "mais",
+        "et",
+        "parce que",
+        "quand"
+      ],
+      "explanation": "'Parce que' (because) explains the cause. You're tired BECAUSE you worked a lot.",
+      "translation": "I'm tired because I worked a lot."
+    }
+  ],
+  "id": "beginner-essentials"
+}

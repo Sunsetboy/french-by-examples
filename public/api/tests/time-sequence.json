@@ -1,0 +1,103 @@
+{
+  "title": "Time & Sequence",
+  "description": "Master the connectors that help you organize events in time and tell stories in the right order. For A2-B1 learners.",
+  "cefrLevel": "A2",
+  "types": [
+    "time",
+    "conclusion"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sentence": "D'abord je me lève, ___ je prends mon petit-déjeuner.",
+      "correctAnswer": "ensuite",
+      "options": [
+        "mais",
+        "ensuite",
+        "donc",
+        "car"
+      ],
+      "explanation": "'Ensuite' (then/next) indicates the next action in a sequence. First you wake up, THEN you have breakfast.",
+      "translation": "First I wake up, then I have breakfast."
+    },
+    {
+      "id": "q2",
+      "sentence": "Nous avons visité Paris, ___ Lyon, ___ Marseille.",
+      "correctAnswer": "puis",
+      "options": [
+        "mais",
+        "donc",
+        "puis",
+        "car"
+      ],
+      "explanation": "'Puis' (then) connects sequential events. You visited Paris, THEN Lyon, THEN Marseille.",
+      "translation": "We visited Paris, then Lyon, then Marseille."
+    },
+    {
+      "id": "q3",
+      "sentence": "___ je rentre chez moi, je mange.",
+      "correctAnswer": "Quand",
+      "options": [
+        "Parce que",
+        "Quand",
+        "Donc",
+        "Mais"
+      ],
+      "explanation": "'Quand' (when) introduces a time condition. WHEN you get home, you eat.",
+      "translation": "When I get home, I eat."
+    },
+    {
+      "id": "q4",
+      "sentence": "Il pleut, ___ je prends mon parapluie.",
+      "correctAnswer": "alors",
+      "options": [
+        "ensuite",
+        "quand",
+        "alors",
+        "puis"
+      ],
+      "explanation": "'Alors' (so/then) shows a logical consequence or what happens next. It's raining, SO you take your umbrella.",
+      "translation": "It's raining, so I take my umbrella."
+    },
+    {
+      "id": "q5",
+      "sentence": "J'ai acheté du pain, du lait, et ___ du fromage.",
+      "correctAnswer": "enfin",
+      "options": [
+        "donc",
+        "mais",
+        "enfin",
+        "car"
+      ],
+      "explanation": "'Enfin' (finally/lastly) introduces the last item in a list. Bread, milk, and FINALLY cheese.",
+      "translation": "I bought bread, milk, and finally cheese."
+    },
+    {
+      "id": "q6",
+      "sentence": "On mélange les ingrédients, ___ on cuit pendant 20 minutes.",
+      "correctAnswer": "puis",
+      "options": [
+        "mais",
+        "car",
+        "puis",
+        "quand"
+      ],
+      "explanation": "'Puis' (then) indicates the next step. Mix the ingredients, THEN cook for 20 minutes.",
+      "translation": "We mix the ingredients, then we cook for 20 minutes."
+    },
+    {
+      "id": "q7",
+      "sentence": "___, les vacances sont arrivées !",
+      "correctAnswer": "Enfin",
+      "options": [
+        "Ensuite",
+        "Puis",
+        "Enfin",
+        "Quand"
+      ],
+      "explanation": "'Enfin' (finally/at last) expresses relief after waiting. FINALLY, the vacation has arrived!",
+      "translation": "Finally, the vacation has arrived!"
+    }
+  ],
+  "id": "time-sequence"
+}

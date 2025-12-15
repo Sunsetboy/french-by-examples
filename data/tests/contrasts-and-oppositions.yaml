@@ -1,0 +1,95 @@
+title: "Contrasts & Oppositions"
+description: "Master expressing contrasts, oppositions, and unexpected outcomes. Perfect for B1 learners developing nuanced communication skills."
+cefrLevel: "B1"
+types:
+  - opposition
+  - condition
+  - emphasis
+questions:
+  - id: "q1"
+    sentence: "Il fait beau, ___ je reste à la maison."
+    correctAnswer: "pourtant"
+    options:
+      - "donc"
+      - "pourtant"
+      - "ainsi"
+      - "puis"
+    explanation: "'Pourtant' (yet/however) expresses an unexpected contrast. The weather is nice, YET you stay home - surprising!"
+    translation: "The weather is nice, yet I stay home."
+
+  - id: "q2"
+    sentence: "En France, on dit 'week-end', ___ en Québec on dit 'fin de semaine'."
+    correctAnswer: "par contre"
+    options:
+      - "donc"
+      - "puis"
+      - "par contre"
+      - "car"
+    explanation: "'Par contre' (on the other hand) introduces a contrasting fact between two situations."
+    translation: "In France, they say 'week-end', on the other hand in Quebec they say 'fin de semaine'."
+
+  - id: "q3"
+    sentence: "Le projet est difficile. ___, c'est impossible de réussir seul."
+    correctAnswer: "C'est-à-dire"
+    options:
+      - "Pourtant"
+      - "Donc"
+      - "C'est-à-dire"
+      - "Puis"
+    explanation: "'C'est-à-dire' (that is to say) clarifies or restates what was just said in more specific terms."
+    translation: "The project is difficult. That is to say, it's impossible to succeed alone."
+
+  - id: "q4"
+    sentence: "J'aime voyager, ___ je n'ai pas beaucoup d'argent."
+    correctAnswer: "mais"
+    options:
+      - "donc"
+      - "puis"
+      - "mais"
+      - "ainsi"
+    explanation: "'Mais' (but) is the most common way to express a direct contrast or limitation."
+    translation: "I like traveling, but I don't have much money."
+
+  - id: "q5"
+    sentence: "Il ne vient pas au cinéma, ___ il doit travailler."
+    correctAnswer: "car"
+    options:
+      - "pourtant"
+      - "car"
+      - "donc"
+      - "alors"
+    explanation: "'Car' (because/for) explains the reason, similar to 'parce que' but more formal and literary."
+    translation: "He's not coming to the cinema, for he has to work."
+
+  - id: "q6"
+    sentence: "Elle travaille dur. ___, elle a obtenu une promotion."
+    correctAnswer: "De plus"
+    options:
+      - "Pourtant"
+      - "De plus"
+      - "Sinon"
+      - "Donc"
+    explanation: "'De plus' (moreover/furthermore) adds additional information that reinforces the previous point."
+    translation: "She works hard. Moreover, she got a promotion."
+
+  - id: "q7"
+    sentence: "Ils sont opposés ___ ils se comprennent bien."
+    correctAnswer: "mais"
+    options:
+      - "donc"
+      - "car"
+      - "mais"
+      - "puis"
+    explanation: "'Mais' (but) connects two contrasting ideas - they're opposed BUT they understand each other."
+    translation: "They are opposed but they understand each other well."
+
+  - id: "q8"
+    sentence: "Le film était long, ___ il était ennuyeux."
+    correctAnswer: "de plus"
+    options:
+      - "pourtant"
+      - "sinon"
+      - "de plus"
+      - "donc"
+    explanation: "'De plus' (moreover) adds another negative aspect. The movie was long, AND ALSO it was boring."
+    translation: "The movie was long, moreover it was boring."

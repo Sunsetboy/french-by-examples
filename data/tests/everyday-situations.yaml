@@ -1,0 +1,119 @@
+title: "Everyday Situations"
+description: "Practice connectors in real-life contexts: making plans, shopping, explaining choices. Perfect for A2-B1 learners building practical communication skills."
+cefrLevel: "B1"
+types:
+  - cause
+  - opposition
+  - consequence
+  - condition
+  - time
+questions:
+  - id: "q1"
+    sentence: "Je ne peux pas venir ce soir ___ je dois garder les enfants."
+    correctAnswer: "parce que"
+    options:
+      - "mais"
+      - "donc"
+      - "parce que"
+      - "quand"
+    explanation: "'Parce que' (because) explains the reason why you can't come."
+    translation: "I can't come tonight because I have to watch the kids."
+
+  - id: "q2"
+    sentence: "Tu veux aller au cinéma ___ au restaurant ?"
+    correctAnswer: "ou"
+    options:
+      - "et"
+      - "ou"
+      - "mais"
+      - "donc"
+    explanation: "'Ou' (or) presents a choice between two alternatives."
+    translation: "Do you want to go to the cinema or to the restaurant?"
+
+  - id: "q3"
+    sentence: "Il fait froid, ___ mets un manteau !"
+    correctAnswer: "alors"
+    options:
+      - "mais"
+      - "car"
+      - "alors"
+      - "quand"
+    explanation: "'Alors' (so/then) introduces a logical consequence or recommendation. It's cold, SO put on a coat!"
+    translation: "It's cold, so put on a coat!"
+
+  - id: "q4"
+    sentence: "Je voudrais ce livre, ___ il est trop cher."
+    correctAnswer: "mais"
+    options:
+      - "donc"
+      - "et"
+      - "mais"
+      - "car"
+    explanation: "'Mais' (but) expresses disappointment or limitation. You want it BUT it's too expensive."
+    translation: "I'd like this book, but it's too expensive."
+
+  - id: "q5"
+    sentence: "___ tu as terminé ton travail, tu peux sortir."
+    correctAnswer: "Quand"
+    options:
+      - "Parce que"
+      - "Quand"
+      - "Donc"
+      - "Mais"
+    explanation: "'Quand' (when) sets a time condition. WHEN you finish your work, you can go out."
+    translation: "When you've finished your work, you can go out."
+
+  - id: "q6"
+    sentence: "Le magasin est fermé ___ c'est dimanche."
+    correctAnswer: "car"
+    options:
+      - "mais"
+      - "car"
+      - "puis"
+      - "ou"
+    explanation: "'Car' (because/for) explains the reason in a slightly more formal way than 'parce que'."
+    translation: "The shop is closed because it's Sunday."
+
+  - id: "q7"
+    sentence: "Dépêche-toi, ___ nous allons être en retard !"
+    correctAnswer: "sinon"
+    options:
+      - "alors"
+      - "sinon"
+      - "donc"
+      - "puis"
+    explanation: "'Sinon' (otherwise/or else) warns about a negative consequence if action isn't taken."
+    translation: "Hurry up, otherwise we're going to be late!"
+
+  - id: "q8"
+    sentence: "J'ai pris le bus, ___ le métro, ___ le train."
+    correctAnswer: "puis"
+    options:
+      - "mais"
+      - "donc"
+      - "puis"
+      - "ou"
+    explanation: "'Puis' (then) connects a series of sequential actions. You took the bus, THEN the metro, THEN the train."
+    translation: "I took the bus, then the metro, then the train."
+
+  - id: "q9"
+    sentence: "Il pleut beaucoup ___ les rues sont inondées."
+    correctAnswer: "donc"
+    options:
+      - "mais"
+      - "car"
+      - "donc"
+      - "quand"
+    explanation: "'Donc' (so/therefore) shows a logical result. It's raining a lot, THEREFORE the streets are flooded."
+    translation: "It's raining a lot so the streets are flooded."
+
+  - id: "q10"
+    sentence: "J'adore le chocolat ___ je suis au régime."
+    correctAnswer: "mais"
+    options:
+      - "donc"
+      - "et"
+      - "mais"
+      - "car"
+    explanation: "'Mais' (but) expresses conflict between desire and reality. You love chocolate BUT you're on a diet."
+    translation: "I love chocolate but I'm on a diet."

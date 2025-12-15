@@ -1,6 +1,6 @@
 {
   "totalConnectors": 35,
-  "totalTests": 1,
+  "totalTests": 7,
   "cefrLevels": [
     "A1",
     "A2",
@@ -20,5 +20,5 @@
     "addition",
     "condition"
   ],
-  "lastUpdated": "2025-12-15T18:16:23.095Z"
+  "lastUpdated": "2025-12-15T20:12:35.423Z"
 }

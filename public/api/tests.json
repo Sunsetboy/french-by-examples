@@ -1,5 +1,18 @@
 [
   {
+    "id": "advanced-nuances",
+    "title": "Advanced Nuances",
+    "description": "Master subtle distinctions and sophisticated expressions for polished, native-like French. Challenging test for C1 learners.",
+    "cefrLevel": "C1",
+    "types": [
+      "opposition",
+      "emphasis",
+      "condition",
+      "comparison"
+    ],
+    "questionCount": 7
+  },
+  {
     "id": "basic-connectors",
     "title": "Basic French Connectors",
     "description": "Test your knowledge of common French connectors and their usage in everyday situations.",
@@ -10,5 +23,68 @@
       "emphasis"
     ],
     "questionCount": 5
+  },
+  {
+    "id": "beginner-essentials",
+    "title": "Beginner Essentials",
+    "description": "Test your knowledge of the most basic and essential French connectors. Perfect for A1 learners starting their French journey.",
+    "cefrLevel": "A1",
+    "types": [
+      "opposition",
+      "addition",
+      "cause",
+      "time"
+    ],
+    "questionCount": 7
+  },
+  {
+    "id": "contrasts-and-oppositions",
+    "title": "Contrasts & Oppositions",
+    "description": "Master expressing contrasts, oppositions, and unexpected outcomes. Perfect for B1 learners developing nuanced communication skills.",
+    "cefrLevel": "B1",
+    "types": [
+      "opposition",
+      "condition",
+      "emphasis"
+    ],
+    "questionCount": 8
+  },
+  {
+    "id": "everyday-situations",
+    "title": "Everyday Situations",
+    "description": "Practice connectors in real-life contexts: making plans, shopping, explaining choices. Perfect for A2-B1 learners building practical communication skills.",
+    "cefrLevel": "B1",
+    "types": [
+      "cause",
+      "opposition",
+      "consequence",
+      "condition",
+      "time"
+    ],
+    "questionCount": 10
+  },
+  {
+    "id": "formal-expressions",
+    "title": "Formal Expressions",
+    "description": "Develop sophisticated expression skills with formal connectors used in professional and academic contexts. Designed for B2 learners.",
+    "cefrLevel": "B2",
+    "types": [
+      "consequence",
+      "emphasis",
+      "example",
+      "addition"
+    ],
+    "questionCount": 8
+  },
+  {
+    "id": "time-sequence",
+    "title": "Time & Sequence",
+    "description": "Master the connectors that help you organize events in time and tell stories in the right order. For A2-B1 learners.",
+    "cefrLevel": "A2",
+    "types": [
+      "time",
+      "conclusion"
+    ],
+    "questionCount": 7
   }
 ]

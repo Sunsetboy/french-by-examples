@@ -1,0 +1,105 @@
+{
+  "title": "Advanced Nuances",
+  "description": "Master subtle distinctions and sophisticated expressions for polished, native-like French. Challenging test for C1 learners.",
+  "cefrLevel": "C1",
+  "types": [
+    "opposition",
+    "emphasis",
+    "condition",
+    "comparison"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "sentence": "Les résultats sont décevants ; ___, nous poursuivrons le projet.",
+      "correctAnswer": "néanmoins",
+      "options": [
+        "donc",
+        "ainsi",
+        "néanmoins",
+        "puis"
+      ],
+      "explanation": "'Néanmoins' (nevertheless/nonetheless) is highly formal and expresses strong opposition despite negative circumstances.",
+      "translation": "The results are disappointing; nevertheless, we will continue the project."
+    },
+    {
+      "id": "q2",
+      "sentence": "L'approche est risquée ; ___, elle pourrait réussir.",
+      "correctAnswer": "toutefois",
+      "options": [
+        "donc",
+        "ainsi",
+        "toutefois",
+        "alors"
+      ],
+      "explanation": "'Toutefois' (however/yet) is very formal and introduces a nuanced exception or possibility despite initial assessment.",
+      "translation": "The approach is risky; however, it could succeed."
+    },
+    {
+      "id": "q3",
+      "sentence": "___ les critiques, le projet a été un succès commercial.",
+      "correctAnswer": "Malgré",
+      "options": [
+        "Avec",
+        "Malgré",
+        "Pendant",
+        "Selon"
+      ],
+      "explanation": "'Malgré' (despite/in spite of) introduces a concession, showing success happened contrary to negative factors.",
+      "translation": "Despite the criticism, the project was a commercial success."
+    },
+    {
+      "id": "q4",
+      "sentence": "Le ministre a démissionné ___ les accusations portées contre lui.",
+      "correctAnswer": "en raison de",
+      "options": [
+        "pour",
+        "avec",
+        "en raison de",
+        "pendant"
+      ],
+      "explanation": "'En raison de' (because of/due to) is formal and used for official explanations of causes.",
+      "translation": "The minister resigned because of the accusations against him."
+    },
+    {
+      "id": "q5",
+      "sentence": "___ les prévisions étaient optimistes, la réalité s'est avérée différente.",
+      "correctAnswer": "Bien que",
+      "options": [
+        "Quand",
+        "Parce que",
+        "Bien que",
+        "Donc"
+      ],
+      "explanation": "'Bien que' (although/even though) is followed by subjunctive and expresses sophisticated contrast.",
+      "translation": "Although the forecasts were optimistic, reality proved different."
+    },
+    {
+      "id": "q6",
+      "sentence": "La théorie semble solide, ___ elle reste controversée.",
+      "correctAnswer": "toutefois",
+      "options": [
+        "donc",
+        "toutefois",
+        "ainsi",
+        "puis"
+      ],
+      "explanation": "'Toutefois' (however) adds a nuanced reservation or counterpoint to what seems certain.",
+      "translation": "The theory seems solid, however it remains controversial."
+    },
+    {
+      "id": "q7",
+      "sentence": "___ les efforts déployés, les objectifs n'ont pas été atteints.",
+      "correctAnswer": "Malgré",
+      "options": [
+        "Avec",
+        "Malgré",
+        "Pendant",
+        "Selon"
+      ],
+      "explanation": "'Malgré' (despite) emphasizes the disappointment when results don't match efforts.",
+      "translation": "Despite the efforts made, the objectives were not achieved."
+    }
+  ],
+  "id": "advanced-nuances"
+}

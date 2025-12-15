@@ -1,0 +1,96 @@
+title: "Formal Expressions"
+description: "Develop sophisticated expression skills with formal connectors used in professional and academic contexts. Designed for B2 learners."
+cefrLevel: "B2"
+types:
+  - consequence
+  - emphasis
+  - example
+  - addition
+questions:
+  - id: "q1"
+    sentence: "Le projet nécessite plus de temps. ___, nous devons reporter la réunion."
+    correctAnswer: "Par conséquent"
+    options:
+      - "Alors"
+      - "Donc"
+      - "Par conséquent"
+      - "Puis"
+    explanation: "'Par conséquent' (consequently/therefore) is a formal way to express a logical consequence in professional contexts."
+    translation: "The project requires more time. Consequently, we must postpone the meeting."
+
+  - id: "q2"
+    sentence: "Il est important d'investir dans la formation ___ améliorer nos compétences."
+    correctAnswer: "afin de"
+    options:
+      - "pour"
+      - "afin de"
+      - "donc"
+      - "ainsi"
+    explanation: "'Afin de' (in order to) is more formal than 'pour' and commonly used in business and academic writing."
+    translation: "It's important to invest in training in order to improve our skills."
+
+  - id: "q3"
+    sentence: "La situation est complexe. ___, plusieurs facteurs sont en jeu."
+    correctAnswer: "En effet"
+    options:
+      - "Alors"
+      - "En effet"
+      - "Donc"
+      - "Puis"
+    explanation: "'En effet' (indeed/in fact) formally confirms and provides supporting evidence for the previous statement."
+    translation: "The situation is complex. Indeed, several factors are at play."
+
+  - id: "q4"
+    sentence: "___ le marché évolue rapidement, nous devons nous adapter constamment."
+    correctAnswer: "Étant donné que"
+    options:
+      - "Quand"
+      - "Si"
+      - "Étant donné que"
+      - "Donc"
+    explanation: "'Étant donné que' (given that/considering that) is a formal way to introduce a reason or premise."
+    translation: "Given that the market evolves rapidly, we must constantly adapt."
+
+  - id: "q5"
+    sentence: "Le rapport est incomplet, ___ il manque les données financières."
+    correctAnswer: "en effet"
+    options:
+      - "donc"
+      - "en effet"
+      - "puis"
+      - "mais"
+    explanation: "'En effet' (indeed) provides explanation or evidence supporting what was just stated."
+    translation: "The report is incomplete, indeed the financial data is missing."
+
+  - id: "q6"
+    sentence: "Nous avons deux options, ___ accepter l'offre ou chercher ailleurs."
+    correctAnswer: "à savoir"
+    options:
+      - "donc"
+      - "à savoir"
+      - "ainsi"
+      - "puis"
+    explanation: "'À savoir' (namely/that is to say) formally introduces a specific list or enumeration."
+    translation: "We have two options, namely accept the offer or look elsewhere."
+
+  - id: "q7"
+    sentence: "Le français est utile pour les affaires. ___, c'est une langue diplomatique importante."
+    correctAnswer: "En outre"
+    options:
+      - "Donc"
+      - "Puis"
+      - "En outre"
+      - "Sinon"
+    explanation: "'En outre' (furthermore/in addition) formally adds another supporting argument."
+    translation: "French is useful for business. Furthermore, it's an important diplomatic language."
+
+  - id: "q8"
+    sentence: "___ le client soit satisfait, nous offrons une garantie complète."
+    correctAnswer: "Afin que"
+    options:
+      - "Pour que"
+      - "Afin que"
+      - "Donc"
+      - "Quand"
+    explanation: "'Afin que' (in order that/so that) is formal and followed by subjunctive to express purpose with subject change."
+    translation: "In order that the client be satisfied, we offer a complete guarantee."
