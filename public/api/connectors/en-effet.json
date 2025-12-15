@@ -1,0 +1,36 @@
+{
+  "term": "en effet",
+  "translation": "indeed, in fact, actually",
+  "type": [
+    "emphasis",
+    "cause"
+  ],
+  "cefrLevel": "B2",
+  "formality": "formal",
+  "description": "Used to confirm, emphasize, or provide an explanation for what was just stated. Common in formal speech and writing to reinforce an argument.",
+  "usage": "Can introduce a confirmation, an explanation, or additional supporting evidence. Often used to strengthen an argument or show agreement.",
+  "examples": [
+    {
+      "french": "Il est très compétent. En effet, il a 20 ans d'expérience.",
+      "english": "He is very competent. Indeed, he has 20 years of experience.",
+      "context": "Supporting a statement with evidence"
+    },
+    {
+      "french": "C'est important de partir tôt. En effet, il y a beaucoup de trafic.",
+      "english": "It's important to leave early. Indeed, there's a lot of traffic.",
+      "context": "Explaining a recommendation"
+    },
+    {
+      "french": "Le français est difficile ? En effet, la grammaire est complexe.",
+      "english": "Is French difficult? Indeed, the grammar is complex.",
+      "context": "Confirming and explaining"
+    }
+  ],
+  "synonyms": [
+    "effectivement",
+    "en fait",
+    "de fait"
+  ],
+  "notes": "More formal than 'en fait'. Common in academic and professional contexts. Can show agreement while providing supporting reasons.",
+  "id": "en-effet"
+}

@@ -1,0 +1,35 @@
+{
+  "term": "parce que",
+  "translation": "because",
+  "type": [
+    "cause"
+  ],
+  "cefrLevel": "A1",
+  "formality": "neutral",
+  "description": "The most common way to express cause or reason in French. Essential for explaining why something happens or why you do something.",
+  "usage": "Introduces a clause explaining the reason. 'Parce que' becomes 'parce qu'' before a vowel. Can answer the question 'Pourquoi ?' (Why?).",
+  "examples": [
+    {
+      "french": "Je reste à la maison parce qu'il pleut.",
+      "english": "I'm staying home because it's raining.",
+      "context": "Explaining a decision"
+    },
+    {
+      "french": "Pourquoi tu apprends le français ? Parce que j'aime cette langue.",
+      "english": "Why are you learning French? Because I love this language.",
+      "context": "Answering a 'why' question"
+    },
+    {
+      "french": "Elle est fatiguée parce qu'elle a beaucoup travaillé.",
+      "english": "She's tired because she worked a lot.",
+      "context": "Explaining a state"
+    }
+  ],
+  "synonyms": [
+    "car",
+    "puisque",
+    "comme"
+  ],
+  "notes": "The most basic and common way to express 'because' in French. Essential from day one of learning French.",
+  "id": "parce-que"
+}

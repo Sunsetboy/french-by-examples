@@ -1,0 +1,23 @@
+term: "en outre"
+translation: "furthermore, moreover, in addition"
+type:
+  - addition
+cefrLevel: "B2"
+formality: "formal"
+description: "Formal connector used to add supplementary information. More formal than 'de plus', commonly found in academic and professional writing."
+usage: "Typically at the beginning of a sentence in formal texts to introduce additional arguments or information. Rare in casual conversation."
+examples:
+  - french: "Ce projet est innovant. En outre, il est économiquement viable."
+    english: "This project is innovative. Furthermore, it is economically viable."
+    context: "Formal business or academic writing"
+  - french: "Le candidat a de l'expérience. En outre, il parle trois langues."
+    english: "The candidate has experience. Moreover, he speaks three languages."
+    context: "Professional evaluation"
+  - french: "Cette méthode est efficace. En outre, elle est facile à appliquer."
+    english: "This method is effective. In addition, it's easy to apply."
+    context: "Technical or academic description"
+synonyms:
+  - "de plus"
+  - "par ailleurs"
+  - "qui plus est"
+notes: "Very formal. Use 'de plus' in conversation. Essential for academic writing and formal reports."

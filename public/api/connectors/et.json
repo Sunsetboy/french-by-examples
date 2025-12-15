@@ -1,0 +1,34 @@
+{
+  "term": "et",
+  "translation": "and",
+  "type": [
+    "addition"
+  ],
+  "cefrLevel": "A1",
+  "formality": "neutral",
+  "description": "The most basic addition connector. Used to link words, phrases, or clauses together.",
+  "usage": "Links elements of equal grammatical value. Essential for creating lists, adding information, or connecting ideas.",
+  "examples": [
+    {
+      "french": "J'aime le chocolat et la vanille.",
+      "english": "I like chocolate and vanilla.",
+      "context": "Linking two items"
+    },
+    {
+      "french": "Il parle français et anglais.",
+      "english": "He speaks French and English.",
+      "context": "Listing languages"
+    },
+    {
+      "french": "Elle travaille le matin et étudie le soir.",
+      "english": "She works in the morning and studies in the evening.",
+      "context": "Connecting two actions"
+    }
+  ],
+  "synonyms": [
+    "ainsi que",
+    "de même que"
+  ],
+  "notes": "The most fundamental connector in French. Learned in the first lesson by all beginners.",
+  "id": "et"
+}

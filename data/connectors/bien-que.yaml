@@ -1,0 +1,23 @@
+term: "bien que"
+translation: "although, even though"
+type:
+  - opposition
+cefrLevel: "B2"
+formality: "formal"
+description: "Formal connector expressing concession. Always followed by the subjunctive mood, making it an excellent marker of advanced French proficiency."
+usage: "Must be followed by subjunctive mood. Used in formal writing and speech to express concession - acknowledging something that doesn't prevent the main action."
+examples:
+  - french: "Bien qu'il soit riche, il n'est pas heureux."
+    english: "Although he is rich, he isn't happy."
+    context: "Concession with subjunctive"
+  - french: "Bien que ce soit difficile, je vais essayer."
+    english: "Even though it's difficult, I'm going to try."
+    context: "Acknowledging challenge"
+  - french: "Bien qu'elle ait beaucoup travaillé, elle n'a pas réussi."
+    english: "Although she worked hard, she didn't succeed."
+    context: "Unexpected negative outcome"
+synonyms:
+  - "quoique"
+  - "même si"
+  - "malgré le fait que"
+notes: "ALWAYS requires subjunctive mood! This is a key grammar point. Use 'même si' + indicative if you're not comfortable with subjunctive."

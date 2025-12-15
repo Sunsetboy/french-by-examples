@@ -1,0 +1,34 @@
+{
+  "term": "quand",
+  "translation": "when",
+  "type": [
+    "time"
+  ],
+  "cefrLevel": "A1",
+  "formality": "neutral",
+  "description": "Essential temporal connector used to indicate when something happens. Can introduce a time clause or ask a question about time.",
+  "usage": "Used to connect two actions in time or to ask questions about timing. Very common in both questions and statements.",
+  "examples": [
+    {
+      "french": "Quand est-ce que tu arrives ?",
+      "english": "When are you arriving?",
+      "context": "Asking about time"
+    },
+    {
+      "french": "Je vais à la plage quand il fait beau.",
+      "english": "I go to the beach when the weather is nice.",
+      "context": "Conditional timing"
+    },
+    {
+      "french": "Quand j'étais petit, je jouais au football.",
+      "english": "When I was little, I played football.",
+      "context": "Talking about the past"
+    }
+  ],
+  "synonyms": [
+    "lorsque",
+    "au moment où"
+  ],
+  "notes": "One of the most essential words for beginners. Used constantly in everyday conversation and writing.",
+  "id": "quand"
+}

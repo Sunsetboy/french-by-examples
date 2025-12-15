@@ -1,0 +1,35 @@
+{
+  "term": "puis",
+  "translation": "then, next",
+  "type": [
+    "time"
+  ],
+  "cefrLevel": "A2",
+  "formality": "neutral",
+  "description": "Used to indicate temporal sequence. Slightly more formal than 'ensuite' but still common in everyday French.",
+  "usage": "Connects sequential events or steps in a process. Can be used interchangeably with 'ensuite' in most contexts.",
+  "examples": [
+    {
+      "french": "D'abord on mélange, puis on cuit.",
+      "english": "First we mix, then we cook.",
+      "context": "Recipe instructions"
+    },
+    {
+      "french": "Je me lève, puis je prends mon petit-déjeuner.",
+      "english": "I wake up, then I have my breakfast.",
+      "context": "Daily routine"
+    },
+    {
+      "french": "Nous avons visité Paris, puis Lyon, puis Marseille.",
+      "english": "We visited Paris, then Lyon, then Marseille.",
+      "context": "Travel itinerary"
+    }
+  ],
+  "synonyms": [
+    "ensuite",
+    "après",
+    "alors"
+  ],
+  "notes": "Very useful for narrating sequences of events. Commonly used with 'd'abord' (first) to structure explanations.",
+  "id": "puis"
+}

@@ -1,0 +1,35 @@
+{
+  "term": "afin de",
+  "translation": "in order to, so as to",
+  "type": [
+    "consequence"
+  ],
+  "cefrLevel": "B2",
+  "formality": "formal",
+  "description": "Formal way to express purpose or goal. More elegant and formal than 'pour'. 'Afin de' is followed by infinitive, 'afin que' is followed by subjunctive.",
+  "usage": "Followed by an infinitive verb to express purpose. Use 'afin que' + subjunctive when the subject changes. Common in formal writing.",
+  "examples": [
+    {
+      "french": "Je me lève tôt afin de faire du sport.",
+      "english": "I wake up early in order to exercise.",
+      "context": "Expressing purpose"
+    },
+    {
+      "french": "Elle étudie beaucoup afin de réussir ses examens.",
+      "english": "She studies a lot so as to pass her exams.",
+      "context": "Goal-oriented action"
+    },
+    {
+      "french": "Nous travaillons ensemble afin de terminer plus vite.",
+      "english": "We work together in order to finish faster.",
+      "context": "Collaborative purpose"
+    }
+  ],
+  "synonyms": [
+    "pour",
+    "dans le but de",
+    "en vue de"
+  ],
+  "notes": "More formal than 'pour'. Common in business writing and formal contexts. Shows sophisticated language use.",
+  "id": "afin-de"
+}

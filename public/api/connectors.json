@@ -1,5 +1,26 @@
 [
   {
+    "id": "a-savoir",
+    "term": "à savoir",
+    "translation": "namely, that is to say, specifically",
+    "type": [
+      "example",
+      "emphasis"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
+    "id": "afin-de",
+    "term": "afin de",
+    "translation": "in order to, so as to",
+    "type": [
+      "consequence"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
     "id": "ainsi",
     "term": "ainsi",
     "translation": "thus, so, therefore, in this way",
@@ -22,6 +43,26 @@
     "formality": "neutral"
   },
   {
+    "id": "au-contraire",
+    "term": "au contraire",
+    "translation": "on the contrary",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "B1",
+    "formality": "neutral"
+  },
+  {
+    "id": "bien-que",
+    "term": "bien que",
+    "translation": "although, even though",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
     "id": "bref",
     "term": "bref",
     "translation": "in short, anyway, to cut a long story short",
@@ -30,6 +71,27 @@
     ],
     "cefrLevel": "B1",
     "formality": "informal"
+  },
+  {
+    "id": "cest-a-dire",
+    "term": "c'est-à-dire",
+    "translation": "that is to say, i.e., in other words",
+    "type": [
+      "example",
+      "emphasis"
+    ],
+    "cefrLevel": "B1",
+    "formality": "neutral"
+  },
+  {
+    "id": "car",
+    "term": "car",
+    "translation": "for, because",
+    "type": [
+      "cause"
+    ],
+    "cefrLevel": "B1",
+    "formality": "formal"
   },
   {
     "id": "cependant",
@@ -50,6 +112,16 @@
       "emphasis"
     ],
     "cefrLevel": "B2",
+    "formality": "neutral"
+  },
+  {
+    "id": "de-plus",
+    "term": "de plus",
+    "translation": "moreover, furthermore, in addition",
+    "type": [
+      "addition"
+    ],
+    "cefrLevel": "B1",
     "formality": "neutral"
   },
   {
@@ -74,6 +146,17 @@
     "formality": "informal"
   },
   {
+    "id": "en-effet",
+    "term": "en effet",
+    "translation": "indeed, in fact, actually",
+    "type": [
+      "emphasis",
+      "cause"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
     "id": "en-fait",
     "term": "en fait",
     "translation": "actually, in fact",
@@ -83,6 +166,16 @@
     ],
     "cefrLevel": "A2",
     "formality": "informal"
+  },
+  {
+    "id": "en-outre",
+    "term": "en outre",
+    "translation": "furthermore, moreover, in addition",
+    "type": [
+      "addition"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
   },
   {
     "id": "en-revanche",
@@ -95,6 +188,17 @@
     "formality": "formal"
   },
   {
+    "id": "enfin",
+    "term": "enfin",
+    "translation": "finally, at last, lastly",
+    "type": [
+      "conclusion",
+      "time"
+    ],
+    "cefrLevel": "A2",
+    "formality": "neutral"
+  },
+  {
     "id": "ensuite",
     "term": "ensuite",
     "translation": "then, next, afterwards",
@@ -102,6 +206,47 @@
       "time"
     ],
     "cefrLevel": "A1",
+    "formality": "neutral"
+  },
+  {
+    "id": "et",
+    "term": "et",
+    "translation": "and",
+    "type": [
+      "addition"
+    ],
+    "cefrLevel": "A1",
+    "formality": "neutral"
+  },
+  {
+    "id": "mais",
+    "term": "mais",
+    "translation": "but",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "A1",
+    "formality": "neutral"
+  },
+  {
+    "id": "malgre-tout",
+    "term": "malgré tout",
+    "translation": "despite everything, nevertheless, all the same",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "B1",
+    "formality": "neutral"
+  },
+  {
+    "id": "meme-si",
+    "term": "même si",
+    "translation": "even if, even though",
+    "type": [
+      "condition",
+      "opposition"
+    ],
+    "cefrLevel": "B1",
     "formality": "neutral"
   },
   {
@@ -115,6 +260,17 @@
     "formality": "formal"
   },
   {
+    "id": "ou",
+    "term": "ou",
+    "translation": "or",
+    "type": [
+      "opposition",
+      "condition"
+    ],
+    "cefrLevel": "A1",
+    "formality": "neutral"
+  },
+  {
     "id": "par-ailleurs",
     "term": "par ailleurs",
     "translation": "moreover, furthermore, besides",
@@ -123,6 +279,26 @@
     ],
     "cefrLevel": "B2",
     "formality": "formal"
+  },
+  {
+    "id": "par-contre",
+    "term": "par contre",
+    "translation": "on the other hand, however",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "B1",
+    "formality": "informal"
+  },
+  {
+    "id": "parce-que",
+    "term": "parce que",
+    "translation": "because",
+    "type": [
+      "cause"
+    ],
+    "cefrLevel": "A1",
+    "formality": "neutral"
   },
   {
     "id": "pourtant",
@@ -135,6 +311,26 @@
     "formality": "neutral"
   },
   {
+    "id": "puis",
+    "term": "puis",
+    "translation": "then, next",
+    "type": [
+      "time"
+    ],
+    "cefrLevel": "A2",
+    "formality": "neutral"
+  },
+  {
+    "id": "quand",
+    "term": "quand",
+    "translation": "when",
+    "type": [
+      "time"
+    ],
+    "cefrLevel": "A1",
+    "formality": "neutral"
+  },
+  {
     "id": "sinon",
     "term": "sinon",
     "translation": "otherwise, if not, or else",
@@ -143,6 +339,17 @@
       "opposition"
     ],
     "cefrLevel": "B1",
+    "formality": "neutral"
+  },
+  {
+    "id": "tandis-que",
+    "term": "tandis que",
+    "translation": "while, whereas",
+    "type": [
+      "opposition",
+      "time"
+    ],
+    "cefrLevel": "B2",
     "formality": "neutral"
   },
   {

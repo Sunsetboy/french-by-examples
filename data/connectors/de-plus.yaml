@@ -1,0 +1,24 @@
+term: "de plus"
+translation: "moreover, furthermore, in addition"
+type:
+  - addition
+cefrLevel: "B1"
+formality: "neutral"
+description: "Used to add supplementary information or an additional argument. Neutral in tone, suitable for both written and spoken French."
+usage: "Typically placed at the beginning of a sentence to introduce additional supporting information. Very useful for building arguments or lists of points."
+examples:
+  - french: "Ce restaurant est excellent. De plus, il n'est pas cher."
+    english: "This restaurant is excellent. Moreover, it's not expensive."
+    context: "Adding a positive point"
+  - french: "J'aime ce travail. De plus, l'équipe est sympathique."
+    english: "I like this job. Furthermore, the team is nice."
+    context: "Listing advantages"
+  - french: "Il parle trois langues. De plus, il voyage souvent."
+    english: "He speaks three languages. In addition, he travels often."
+    context: "Accumulating qualities"
+synonyms:
+  - "en outre"
+  - "par ailleurs"
+  - "en plus"
+  - "qui plus est"
+notes: "Very useful for adding arguments or points in discussions and essays. More neutral than 'd'ailleurs'."

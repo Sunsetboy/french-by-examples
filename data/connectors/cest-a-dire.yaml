@@ -1,0 +1,24 @@
+term: "c'est-à-dire"
+translation: "that is to say, i.e., in other words"
+type:
+  - example
+  - emphasis
+cefrLevel: "B1"
+formality: "neutral"
+description: "Used to clarify, explain, or reformulate what was just said. Very useful for making your meaning clearer or more precise."
+usage: "Can be abbreviated as 'c.-à-d.' in writing. Often used to provide a more specific explanation or example of a general statement."
+examples:
+  - french: "J'arrive demain, c'est-à-dire le 15 mars."
+    english: "I'm arriving tomorrow, that is to say March 15th."
+    context: "Clarifying a date"
+  - french: "Il est bilingue, c'est-à-dire qu'il parle deux langues couramment."
+    english: "He's bilingual, that is to say he speaks two languages fluently."
+    context: "Explaining a term"
+  - french: "Je travaille à mi-temps, c'est-à-dire 20 heures par semaine."
+    english: "I work part-time, i.e. 20 hours per week."
+    context: "Being more specific"
+synonyms:
+  - "autrement dit"
+  - "en d'autres termes"
+  - "à savoir"
+notes: "Very useful connector for clarifying your meaning. Common in both spoken and written French."

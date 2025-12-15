@@ -1,0 +1,23 @@
+term: "mais"
+translation: "but"
+type:
+  - opposition
+cefrLevel: "A1"
+formality: "neutral"
+description: "The most fundamental opposition connector in French. Used to introduce a contrast or contradiction to what was just said."
+usage: "Can be used at the beginning or middle of a sentence. Essential for expressing contrast in both spoken and written French at all levels."
+examples:
+  - french: "J'aime le café, mais je préfère le thé."
+    english: "I like coffee, but I prefer tea."
+    context: "Simple preference contrast"
+  - french: "Il fait beau, mais il fait froid."
+    english: "It's sunny, but it's cold."
+    context: "Weather contradiction"
+  - french: "C'est cher, mais c'est de bonne qualité."
+    english: "It's expensive, but it's good quality."
+    context: "Balancing negative with positive"
+synonyms:
+  - "cependant"
+  - "pourtant"
+  - "par contre"
+notes: "The most basic and versatile opposition connector. Essential for A1 learners. Used constantly in everyday French."

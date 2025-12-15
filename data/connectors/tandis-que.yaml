@@ -1,0 +1,24 @@
+term: "tandis que"
+translation: "while, whereas"
+type:
+  - opposition
+  - time
+cefrLevel: "B2"
+formality: "neutral"
+description: "Sophisticated connector expressing opposition or simultaneous actions. Can indicate contrast between two situations or actions happening at the same time."
+usage: "Used to contrast two parallel situations or to show two actions occurring simultaneously. More formal and elegant than 'pendant que' for contrast."
+examples:
+  - french: "Il aime le sport, tandis que sa sœur préfère la lecture."
+    english: "He likes sports, whereas his sister prefers reading."
+    context: "Contrasting preferences"
+  - french: "Elle travaille, tandis que lui se repose."
+    english: "She works, while he rests."
+    context: "Simultaneous contrasting actions"
+  - french: "Les riches s'enrichissent, tandis que les pauvres s'appauvrissent."
+    english: "The rich get richer, while the poor get poorer."
+    context: "Social contrast"
+synonyms:
+  - "alors que"
+  - "pendant que"
+  - "en revanche"
+notes: "More sophisticated than 'pendant que'. Good for showing elegant contrasts in essays and formal speech."

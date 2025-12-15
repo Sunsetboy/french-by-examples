@@ -1,0 +1,36 @@
+{
+  "term": "malgré tout",
+  "translation": "despite everything, nevertheless, all the same",
+  "type": [
+    "opposition"
+  ],
+  "cefrLevel": "B1",
+  "formality": "neutral",
+  "description": "Expresses persistence or positive outcome despite obstacles or negative circumstances. Emphasizes overcoming difficulties.",
+  "usage": "Used to show that something happens or is true even though there are reasons against it. Often conveys determination or resilience.",
+  "examples": [
+    {
+      "french": "Il a eu beaucoup de problèmes, mais malgré tout, il a réussi.",
+      "english": "He had many problems, but despite everything, he succeeded.",
+      "context": "Success despite difficulties"
+    },
+    {
+      "french": "C'est difficile, mais malgré tout, je continue.",
+      "english": "It's difficult, but all the same, I continue.",
+      "context": "Showing determination"
+    },
+    {
+      "french": "Malgré tout, la vie est belle.",
+      "english": "Despite everything, life is beautiful.",
+      "context": "Maintaining optimism"
+    }
+  ],
+  "synonyms": [
+    "néanmoins",
+    "quand même",
+    "tout de même",
+    "pourtant"
+  ],
+  "notes": "Often expresses resilience or a positive attitude in the face of adversity. Common in motivational contexts.",
+  "id": "malgre-tout"
+}

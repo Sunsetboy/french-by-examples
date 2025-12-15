@@ -1,0 +1,24 @@
+term: "enfin"
+translation: "finally, at last, lastly"
+type:
+  - conclusion
+  - time
+cefrLevel: "A2"
+formality: "neutral"
+description: "Multi-purpose connector expressing conclusion, relief, or the last item in a sequence. Can also be used as a filler word to soften or nuance what you're saying."
+usage: "Can mean 'finally' (after waiting), 'lastly' (in a list), or be used as a discourse marker meaning 'well' or 'I mean'. Very versatile in spoken French."
+examples:
+  - french: "Enfin, les vacances sont arrivées !"
+    english: "Finally, the vacation has arrived!"
+    context: "Expressing relief after waiting"
+  - french: "J'ai acheté du pain, du lait, et enfin du fromage."
+    english: "I bought bread, milk, and lastly cheese."
+    context: "Concluding a list"
+  - french: "C'est bien, enfin, je pense..."
+    english: "It's good, well, I think..."
+    context: "Hedging or nuancing (spoken French)"
+synonyms:
+  - "finalement"
+  - "pour finir"
+  - "bref"
+notes: "Very common in spoken French. Has multiple meanings depending on context - can express conclusion, relief, or be a filler word."

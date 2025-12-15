@@ -1,0 +1,34 @@
+{
+  "term": "car",
+  "translation": "for, because",
+  "type": [
+    "cause"
+  ],
+  "cefrLevel": "B1",
+  "formality": "formal",
+  "description": "Formal causal connector used to justify or explain. More formal and literary than 'parce que'. Cannot be used to answer a direct 'Pourquoi ?' question.",
+  "usage": "Introduces an explanation or justification. Always at the beginning of a new clause, never at the start of a sentence. More common in written French than spoken.",
+  "examples": [
+    {
+      "french": "Je ne peux pas venir, car j'ai un rendez-vous.",
+      "english": "I can't come, for I have an appointment.",
+      "context": "Formal explanation"
+    },
+    {
+      "french": "Il faut partir maintenant, car il est tard.",
+      "english": "We must leave now, for it's late.",
+      "context": "Justifying urgency"
+    },
+    {
+      "french": "Elle a réussi, car elle a beaucoup travaillé.",
+      "english": "She succeeded, for she worked hard.",
+      "context": "Explaining success"
+    }
+  ],
+  "synonyms": [
+    "parce que",
+    "puisque"
+  ],
+  "notes": "More formal than 'parce que'. Cannot answer 'Pourquoi ?' directly. Common in written French and formal speech.",
+  "id": "car"
+}

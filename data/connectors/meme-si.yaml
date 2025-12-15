@@ -1,0 +1,24 @@
+term: "même si"
+translation: "even if, even though"
+type:
+  - condition
+  - opposition
+cefrLevel: "B1"
+formality: "neutral"
+description: "Expresses a condition or concession that doesn't prevent the main action. Used to acknowledge an obstacle that is overcome or a condition that doesn't change the outcome."
+usage: "Followed by indicative mood (unlike 'bien que' which takes subjunctive). Common in both spoken and written French to express hypothetical or real conditions."
+examples:
+  - french: "Je vais courir même s'il pleut."
+    english: "I'm going running even if it rains."
+    context: "Determination despite condition"
+  - french: "Même si c'est cher, je vais l'acheter."
+    english: "Even if it's expensive, I'm going to buy it."
+    context: "Overcoming obstacle"
+  - french: "Il est content même s'il n'a pas gagné."
+    english: "He's happy even though he didn't win."
+    context: "Positive attitude despite setback"
+synonyms:
+  - "bien que"
+  - "quoique"
+  - "malgré"
+notes: "Takes indicative mood, not subjunctive (unlike 'bien que'). Very useful for expressing determination or resilience."

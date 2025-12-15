@@ -1,0 +1,23 @@
+term: "ou"
+translation: "or"
+type:
+  - opposition
+  - condition
+cefrLevel: "A1"
+formality: "neutral"
+description: "Used to present alternatives or choices. Essential for expressing options between two or more possibilities."
+usage: "Links alternatives. Note: 'où' (with accent) means 'where', while 'ou' (without accent) means 'or'."
+examples:
+  - french: "Tu veux du thé ou du café ?"
+    english: "Do you want tea or coffee?"
+    context: "Offering a choice"
+  - french: "On peut aller au cinéma ou au restaurant."
+    english: "We can go to the cinema or to a restaurant."
+    context: "Suggesting alternatives"
+  - french: "C'est noir ou blanc ?"
+    english: "Is it black or white?"
+    context: "Asking about alternatives"
+synonyms:
+  - "ou bien"
+  - "sinon"
+notes: "Essential connector for beginners. Don't confuse 'ou' (or) with 'où' (where)!"

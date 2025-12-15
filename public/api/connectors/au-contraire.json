@@ -1,0 +1,34 @@
+{
+  "term": "au contraire",
+  "translation": "on the contrary",
+  "type": [
+    "opposition"
+  ],
+  "cefrLevel": "B1",
+  "formality": "neutral",
+  "description": "Expresses a strong opposition or contradiction. Used to completely oppose or refute what was just said, not just to nuance it.",
+  "usage": "Introduces a statement that directly contradicts the previous one. Stronger than 'mais' or 'par contre' - implies the opposite is true.",
+  "examples": [
+    {
+      "french": "Tu penses que c'est facile ? Au contraire, c'est très difficile !",
+      "english": "You think it's easy? On the contrary, it's very difficult!",
+      "context": "Strongly disagreeing"
+    },
+    {
+      "french": "Il n'est pas timide. Au contraire, il est très sociable.",
+      "english": "He's not shy. On the contrary, he's very sociable.",
+      "context": "Stating the opposite"
+    },
+    {
+      "french": "Ce n'est pas ennuyeux. Au contraire, c'est passionnant !",
+      "english": "It's not boring. On the contrary, it's fascinating!",
+      "context": "Contradicting a negative perception"
+    }
+  ],
+  "synonyms": [
+    "bien au contraire",
+    "tout au contraire"
+  ],
+  "notes": "Stronger than most opposition connectors. Use it when you want to express complete opposition, not just nuance.",
+  "id": "au-contraire"
+}

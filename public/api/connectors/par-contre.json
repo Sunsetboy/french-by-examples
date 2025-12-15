@@ -1,0 +1,35 @@
+{
+  "term": "par contre",
+  "translation": "on the other hand, however",
+  "type": [
+    "opposition"
+  ],
+  "cefrLevel": "B1",
+  "formality": "informal",
+  "description": "Very popular in spoken French to introduce a contrasting point. Some purists consider it incorrect and prefer 'en revanche', but it's widely used in everyday conversation.",
+  "usage": "Used at the beginning of a sentence to introduce a contrast. More common in spoken French than written, especially in informal contexts.",
+  "examples": [
+    {
+      "french": "J'aime le thé. Par contre, je n'aime pas le café.",
+      "english": "I like tea. On the other hand, I don't like coffee.",
+      "context": "Contrasting preferences"
+    },
+    {
+      "french": "Il fait beau aujourd'hui. Par contre, demain il va pleuvoir.",
+      "english": "It's nice today. However, tomorrow it will rain.",
+      "context": "Weather contrast"
+    },
+    {
+      "french": "Le film était long. Par contre, il était intéressant.",
+      "english": "The movie was long. On the other hand, it was interesting.",
+      "context": "Balancing criticism with praise"
+    }
+  ],
+  "synonyms": [
+    "en revanche",
+    "mais",
+    "cependant"
+  ],
+  "notes": "Extremely common in spoken French but some consider it grammatically incorrect. Use 'en revanche' in formal writing.",
+  "id": "par-contre"
+}

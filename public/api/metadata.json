@@ -1,5 +1,5 @@
 {
-  "totalConnectors": 15,
+  "totalConnectors": 35,
   "totalTests": 1,
   "cefrLevels": [
     "A1",
@@ -10,13 +10,15 @@
     "C2"
   ],
   "connectorTypes": [
+    "example",
+    "emphasis",
     "consequence",
     "conclusion",
     "time",
     "opposition",
+    "cause",
     "addition",
-    "emphasis",
     "condition"
   ],
-  "lastUpdated": "2025-12-15T17:07:17.654Z"
+  "lastUpdated": "2025-12-15T18:16:23.095Z"
 }

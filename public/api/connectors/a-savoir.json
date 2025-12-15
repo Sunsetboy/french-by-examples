@@ -1,0 +1,36 @@
+{
+  "term": "à savoir",
+  "translation": "namely, that is to say, specifically",
+  "type": [
+    "example",
+    "emphasis"
+  ],
+  "cefrLevel": "B2",
+  "formality": "formal",
+  "description": "Formal connector used to introduce specific details, examples, or a precise list after a general statement. Similar to 'c'est-à-dire' but more formal.",
+  "usage": "Introduces a clarification or enumeration of what was just mentioned. Common in academic, legal, and technical writing.",
+  "examples": [
+    {
+      "french": "Trois pays ont voté contre, à savoir la France, l'Allemagne et l'Italie.",
+      "english": "Three countries voted against, namely France, Germany, and Italy.",
+      "context": "Specifying which countries"
+    },
+    {
+      "french": "Il faut deux ingrédients, à savoir du sucre et de la farine.",
+      "english": "You need two ingredients, namely sugar and flour.",
+      "context": "Listing specific items"
+    },
+    {
+      "french": "Nous cherchons quelqu'un de qualifié, à savoir un ingénieur expérimenté.",
+      "english": "We're looking for someone qualified, that is to say an experienced engineer.",
+      "context": "Specifying requirements"
+    }
+  ],
+  "synonyms": [
+    "c'est-à-dire",
+    "en l'occurrence",
+    "soit"
+  ],
+  "notes": "Very formal. Common in legal documents, academic papers, and technical writing. Shows high level of French proficiency.",
+  "id": "a-savoir"
+}
