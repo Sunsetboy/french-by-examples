@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllConnectorIds, getConnectorById } from '@/lib/data';
-import { formatCEFRLevel, formatFormality, formatConnectorType } from '@/lib/utils';
+import { formatCEFRLevel, formatFormality, formatConnectorType, termToSlug } from '@/lib/utils';
 
 interface ConnectorPageProps {
   params: Promise<{ id: string }>;
@@ -40,6 +40,9 @@ export default async function ConnectorPage({ params }: ConnectorPageProps) {
   } catch {
     notFound();
   }
+
+  // Get all connector IDs to check if synonyms have pages
+  const allConnectorIds = getAllConnectorIds();
 
   const formalityColors = {
     informal: 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200',
@@ -151,14 +154,31 @@ export default async function ConnectorPage({ params }: ConnectorPageProps) {
             Synonyms & Alternatives
           </h2>
           <div className="flex flex-wrap gap-2">
-            {connector.synonyms.map((synonym, index) => (
-              <span
-                key={index}
-                className="px-3 py-1 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded-md"
-              >
-                {synonym}
-              </span>
-            ))}
+            {connector.synonyms.map((synonym, index) => {
+              const synonymSlug = termToSlug(synonym);
+              const hasPage = allConnectorIds.includes(synonymSlug);
+
+              if (hasPage) {
+                return (
+                  <Link
+                    key={index}
+                    href={`/connectors/${synonymSlug}`}
+                    className="px-3 py-1 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded-md hover:bg-blue-100 dark:hover:bg-blue-900/50 transition-colors"
+                  >
+                    {synonym}
+                  </Link>
+                );
+              }
+
+              return (
+                <span
+                  key={index}
+                  className="px-3 py-1 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded-md"
+                >
+                  {synonym}
+                </span>
+              );
+            })}
           </div>
         </div>
       )}

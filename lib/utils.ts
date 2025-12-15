@@ -25,3 +25,11 @@ export function formatFormality(formality: string): string {
 export function formatConnectorType(type: string): string {
   return type.charAt(0).toUpperCase() + type.slice(1).replace(/-/g, ' ');
 }
+
+export function termToSlug(term: string): string {
+  return term
+    .toLowerCase()
+    .trim()
+    .replace(/['\s]+/g, '-')
+    .replace(/[^a-z0-9-]/g, '');
+}
