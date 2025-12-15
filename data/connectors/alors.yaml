@@ -1,0 +1,28 @@
+term: "alors"
+translation: "so, then, therefore"
+type:
+  - consequence
+  - time
+cefrLevel: "A2"
+formality: "neutral"
+description: "A versatile connector used to express consequence or to mark temporal sequence. Very common in both spoken and written French."
+usage: "Can be used to express logical consequence (like 'so') or temporal sequence (like 'then'). Often used at the beginning of a sentence or after a pause."
+examples:
+  - french: "Il pleut, alors je prends un parapluie."
+    english: "It's raining, so I'm taking an umbrella."
+    context: "Expressing consequence"
+  - french: "Alors, qu'est-ce que tu en penses ?"
+    english: "So, what do you think about it?"
+    context: "Starting a question or conversation"
+  - french: "J'ai fini mes devoirs, alors je peux sortir."
+    english: "I finished my homework, so I can go out."
+    context: "Cause and consequence in everyday situation"
+  - french: "Nous avons d'abord visité Paris, alors nous sommes allés à Lyon."
+    english: "We first visited Paris, then we went to Lyon."
+    context: "Temporal sequence"
+synonyms:
+  - "donc"
+  - "du coup"
+  - "par conséquent"
+  - "ensuite"
+notes: "One of the most common and versatile connectors in French. Can also be used as a filler word in conversation."

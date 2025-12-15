@@ -1,0 +1,24 @@
+term: "néanmoins"
+translation: "nevertheless, nonetheless, however"
+type:
+  - opposition
+cefrLevel: "C1"
+formality: "formal"
+description: "A formal connector expressing opposition or concession. Used to introduce information that contrasts with what was previously stated while maintaining a formal tone."
+usage: "Primarily used in written French and formal speech. Typically placed at the beginning of a sentence to introduce a contrasting point while acknowledging the previous statement."
+examples:
+  - french: "Les conditions économiques sont difficiles. Néanmoins, l'entreprise reste optimiste."
+    english: "Economic conditions are difficult. Nevertheless, the company remains optimistic."
+    context: "Formal business communication"
+  - french: "L'étude présente quelques limites. Néanmoins, les résultats sont significatifs."
+    english: "The study has some limitations. Nevertheless, the results are significant."
+    context: "Academic writing"
+  - french: "Le chemin sera long et difficile. Néanmoins, nous devons persévérer."
+    english: "The path will be long and difficult. Nonetheless, we must persevere."
+    context: "Formal or inspirational speech"
+synonyms:
+  - "cependant"
+  - "toutefois"
+  - "pourtant"
+  - "malgré tout"
+notes: "Very formal. Rare in everyday conversation. Preferred in academic, literary, and professional contexts."

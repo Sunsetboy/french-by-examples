@@ -1,0 +1,25 @@
+term: "ainsi"
+translation: "thus, so, therefore, in this way"
+type:
+  - consequence
+  - conclusion
+cefrLevel: "B2"
+formality: "formal"
+description: "Expresses consequence or manner. Used to show logical result or to describe how something is done. More formal alternative to 'donc' or 'comme ça'."
+usage: "Can be used at the beginning of a sentence to introduce a logical consequence, or to mean 'in this way/manner'. Common in formal writing and presentations."
+examples:
+  - french: "Les ventes ont augmenté. Ainsi, nous pouvons embaucher plus de personnel."
+    english: "Sales have increased. Thus, we can hire more staff."
+    context: "Business context - expressing consequence"
+  - french: "Ainsi se termine notre histoire."
+    english: "Thus ends our story."
+    context: "Literary conclusion"
+  - french: "C'est ainsi que j'ai appris le français."
+    english: "That's how I learned French."
+    context: "Describing manner or method"
+synonyms:
+  - "donc"
+  - "par conséquent"
+  - "de cette manière"
+  - "comme ça"
+notes: "Formal connector often found in academic writing, legal texts, and formal presentations. Less common in casual conversation."

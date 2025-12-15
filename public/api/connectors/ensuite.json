@@ -1,0 +1,35 @@
+{
+  "term": "ensuite",
+  "translation": "then, next, afterwards",
+  "type": [
+    "time"
+  ],
+  "cefrLevel": "A1",
+  "formality": "neutral",
+  "description": "Used to indicate temporal sequence or to list steps in order. Essential for narrating events or giving instructions.",
+  "usage": "Typically used to connect events that happen one after another. Very useful when explaining a process or telling a story.",
+  "examples": [
+    {
+      "french": "D'abord, on mélange les ingrédients, ensuite on cuit pendant 30 minutes.",
+      "english": "First, we mix the ingredients, then we cook for 30 minutes.",
+      "context": "Giving cooking instructions"
+    },
+    {
+      "french": "Je me lève à 7h, ensuite je prends mon petit-déjeuner.",
+      "english": "I wake up at 7am, then I have my breakfast.",
+      "context": "Describing daily routine"
+    },
+    {
+      "french": "Nous avons visité le musée, ensuite nous sommes allés au restaurant.",
+      "english": "We visited the museum, then we went to the restaurant.",
+      "context": "Narrating past events"
+    }
+  ],
+  "synonyms": [
+    "puis",
+    "après",
+    "alors"
+  ],
+  "notes": "Very common in everyday French. Essential for A1-A2 learners to organize their speech when describing sequences.",
+  "id": "ensuite"
+}

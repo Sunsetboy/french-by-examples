@@ -1,5 +1,58 @@
 [
   {
+    "id": "ainsi",
+    "term": "ainsi",
+    "translation": "thus, so, therefore, in this way",
+    "type": [
+      "consequence",
+      "conclusion"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
+    "id": "alors",
+    "term": "alors",
+    "translation": "so, then, therefore",
+    "type": [
+      "consequence",
+      "time"
+    ],
+    "cefrLevel": "A2",
+    "formality": "neutral"
+  },
+  {
+    "id": "bref",
+    "term": "bref",
+    "translation": "in short, anyway, to cut a long story short",
+    "type": [
+      "conclusion"
+    ],
+    "cefrLevel": "B1",
+    "formality": "informal"
+  },
+  {
+    "id": "cependant",
+    "term": "cependant",
+    "translation": "however, nevertheless",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
+    "id": "dailleurs",
+    "term": "d'ailleurs",
+    "translation": "besides, moreover, by the way",
+    "type": [
+      "addition",
+      "emphasis"
+    ],
+    "cefrLevel": "B2",
+    "formality": "neutral"
+  },
+  {
     "id": "donc",
     "term": "donc",
     "translation": "so, therefore, thus",
@@ -42,6 +95,26 @@
     "formality": "formal"
   },
   {
+    "id": "ensuite",
+    "term": "ensuite",
+    "translation": "then, next, afterwards",
+    "type": [
+      "time"
+    ],
+    "cefrLevel": "A1",
+    "formality": "neutral"
+  },
+  {
+    "id": "neanmoins",
+    "term": "néanmoins",
+    "translation": "nevertheless, nonetheless, however",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "C1",
+    "formality": "formal"
+  },
+  {
     "id": "par-ailleurs",
     "term": "par ailleurs",
     "translation": "moreover, furthermore, besides",
@@ -49,6 +122,37 @@
       "addition"
     ],
     "cefrLevel": "B2",
+    "formality": "formal"
+  },
+  {
+    "id": "pourtant",
+    "term": "pourtant",
+    "translation": "yet, however, nevertheless",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "B1",
+    "formality": "neutral"
+  },
+  {
+    "id": "sinon",
+    "term": "sinon",
+    "translation": "otherwise, if not, or else",
+    "type": [
+      "condition",
+      "opposition"
+    ],
+    "cefrLevel": "B1",
+    "formality": "neutral"
+  },
+  {
+    "id": "toutefois",
+    "term": "toutefois",
+    "translation": "however, nevertheless, yet",
+    "type": [
+      "opposition"
+    ],
+    "cefrLevel": "C1",
     "formality": "formal"
   }
 ]

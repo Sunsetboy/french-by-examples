@@ -1,0 +1,23 @@
+term: "toutefois"
+translation: "however, nevertheless, yet"
+type:
+  - opposition
+cefrLevel: "C1"
+formality: "formal"
+description: "A highly formal connector expressing opposition or restriction. Used to introduce a nuance or limitation to what was previously stated."
+usage: "Primarily used in formal writing, legal documents, and academic texts. Can be placed at the beginning or middle of a sentence to introduce a contrasting or limiting element."
+examples:
+  - french: "Le contrat est valide. Toutefois, certaines clauses peuvent être modifiées."
+    english: "The contract is valid. However, certain clauses can be modified."
+    context: "Legal or business context"
+  - french: "La théorie est séduisante. Toutefois, elle manque de preuves empiriques."
+    english: "The theory is attractive. Nevertheless, it lacks empirical evidence."
+    context: "Academic writing"
+  - french: "L'accès est gratuit, toutefois une inscription est nécessaire."
+    english: "Access is free, however registration is required."
+    context: "Formal announcement or instructions"
+synonyms:
+  - "néanmoins"
+  - "cependant"
+  - "pourtant"
+notes: "Very formal, rarely used in conversation. Found primarily in administrative, legal, and academic writing. Using it in casual speech might sound overly formal or pretentious."

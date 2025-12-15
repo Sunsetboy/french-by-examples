@@ -1,0 +1,23 @@
+term: "pourtant"
+translation: "yet, however, nevertheless"
+type:
+  - opposition
+cefrLevel: "B1"
+formality: "neutral"
+description: "Expresses opposition or contrast, often highlighting something surprising or unexpected. More emphatic than simple 'mais'."
+usage: "Used to introduce information that contrasts with expectations based on what was previously stated. Can be placed at the beginning or in the middle of a sentence."
+examples:
+  - french: "Il n'a pas beaucoup étudié, pourtant il a réussi l'examen."
+    english: "He didn't study much, yet he passed the exam."
+    context: "Unexpected positive result"
+  - french: "Le film a de bonnes critiques, pourtant je ne l'ai pas aimé."
+    english: "The movie has good reviews, yet I didn't like it."
+    context: "Personal opinion contrasting with general opinion"
+  - french: "C'est pourtant simple à comprendre !"
+    english: "Yet it's simple to understand!"
+    context: "Emphasizing that something should be obvious"
+synonyms:
+  - "cependant"
+  - "néanmoins"
+  - "malgré tout"
+notes: "Emphasizes the contrast more than 'mais'. Often implies surprise at the contradiction."

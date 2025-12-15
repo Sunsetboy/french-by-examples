@@ -1,0 +1,27 @@
+term: "sinon"
+translation: "otherwise, if not, or else"
+type:
+  - condition
+  - opposition
+cefrLevel: "B1"
+formality: "neutral"
+description: "Expresses an alternative or a condition. Used to present what will happen if a condition is not met, or to offer an alternative option."
+usage: "Commonly used to express consequences of not doing something, or to present an alternative. Can mean 'otherwise' or simply 'or' when offering choices."
+examples:
+  - french: "Dépêche-toi, sinon tu vas rater le train !"
+    english: "Hurry up, otherwise you'll miss the train!"
+    context: "Warning about consequence of inaction"
+  - french: "Je préfère le thé, sinon je prendrai du café."
+    english: "I prefer tea, otherwise I'll have coffee."
+    context: "Expressing preference with alternative"
+  - french: "Prends un parapluie, sinon tu vas être trempé."
+    english: "Take an umbrella, or else you'll get soaked."
+    context: "Advice with consequence"
+  - french: "Tu veux du vin rouge ou sinon du blanc ?"
+    english: "Do you want red wine or white?"
+    context: "Offering alternatives (informal usage)"
+synonyms:
+  - "autrement"
+  - "sans quoi"
+  - "ou bien"
+notes: "Very common in everyday French. Essential for expressing conditions and alternatives in conversation."

@@ -1,0 +1,36 @@
+{
+  "term": "cependant",
+  "translation": "however, nevertheless",
+  "type": [
+    "opposition"
+  ],
+  "cefrLevel": "B2",
+  "formality": "formal",
+  "description": "Used to introduce a contrasting idea or opposition. More formal and literary than 'mais' or 'par contre'.",
+  "usage": "Typically used at the beginning of a sentence or clause to introduce information that contrasts with what was previously stated. Common in written French and formal speech.",
+  "examples": [
+    {
+      "french": "Le projet est ambitieux. Cependant, nous avons les ressources nécessaires.",
+      "english": "The project is ambitious. However, we have the necessary resources.",
+      "context": "Business or formal context"
+    },
+    {
+      "french": "Il fait froid aujourd'hui. Cependant, le ciel est magnifique.",
+      "english": "It's cold today. However, the sky is beautiful.",
+      "context": "Finding a positive aspect despite a negative"
+    },
+    {
+      "french": "Elle travaille beaucoup, cependant elle trouve toujours du temps pour sa famille.",
+      "english": "She works a lot, however she always finds time for her family.",
+      "context": "Contrasting busy life with family priorities"
+    }
+  ],
+  "synonyms": [
+    "néanmoins",
+    "toutefois",
+    "pourtant",
+    "en revanche"
+  ],
+  "notes": "More formal than 'mais'. Commonly used in academic writing, professional communications, and literature.",
+  "id": "cependant"
+}

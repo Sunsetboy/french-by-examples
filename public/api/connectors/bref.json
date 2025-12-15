@@ -1,0 +1,36 @@
+{
+  "term": "bref",
+  "translation": "in short, anyway, to cut a long story short",
+  "type": [
+    "conclusion"
+  ],
+  "cefrLevel": "B1",
+  "formality": "informal",
+  "description": "Used to summarize or conclude what has been said, often skipping details. Very common in spoken French to get to the point or wrap up a story.",
+  "usage": "Typically used when you want to conclude a long explanation or story without going into all the details. Signals that you're moving to the conclusion or main point.",
+  "examples": [
+    {
+      "french": "J'ai eu plein de problèmes avec ma voiture, bref, je suis arrivé en retard.",
+      "english": "I had lots of problems with my car, anyway, I arrived late.",
+      "context": "Summarizing a complicated situation"
+    },
+    {
+      "french": "Il a parlé pendant une heure de ses vacances. Bref, il s'est bien amusé.",
+      "english": "He talked for an hour about his vacation. In short, he had a good time.",
+      "context": "Summarizing someone else's long story"
+    },
+    {
+      "french": "On a cherché partout, demandé à tout le monde... bref, on ne l'a pas trouvé.",
+      "english": "We looked everywhere, asked everyone... anyway, we didn't find it.",
+      "context": "Cutting to the conclusion after listing actions"
+    }
+  ],
+  "synonyms": [
+    "en bref",
+    "en résumé",
+    "pour résumer",
+    "enfin"
+  ],
+  "notes": "Very popular in spoken French, especially among younger speakers. Shows impatience to get to the point or indicates the details aren't important.",
+  "id": "bref"
+}

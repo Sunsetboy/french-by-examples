@@ -1,0 +1,25 @@
+term: "d'ailleurs"
+translation: "besides, moreover, by the way"
+type:
+  - addition
+  - emphasis
+cefrLevel: "B2"
+formality: "neutral"
+description: "Used to add information that supports or reinforces what was just said, or to introduce a related point. Can also be used to change topic smoothly."
+usage: "Often placed at the beginning of a sentence to add a complementary argument or related information. Very common in conversation to transition between related topics."
+examples:
+  - french: "Ce restaurant est excellent. D'ailleurs, il a reçu une étoile Michelin."
+    english: "This restaurant is excellent. Moreover, it received a Michelin star."
+    context: "Adding supporting information"
+  - french: "Je ne veux pas sortir ce soir. D'ailleurs, je suis fatigué."
+    english: "I don't want to go out tonight. Besides, I'm tired."
+    context: "Adding an additional reason"
+  - french: "D'ailleurs, il faut que je te parle de quelque chose."
+    english: "By the way, I need to talk to you about something."
+    context: "Transitioning to a related topic"
+synonyms:
+  - "en outre"
+  - "de plus"
+  - "par ailleurs"
+  - "au fait"
+notes: "Very common in spoken French. Can serve both to reinforce an argument and to transition smoothly between topics."
