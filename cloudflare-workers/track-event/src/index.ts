@@ -101,7 +101,7 @@ export default {
         event.referrer,
         event.user_agent,
         event.screen_resolution,
-        viewport_size,
+        event.viewport_size,
         event.language,
         country,
         region,
