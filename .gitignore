@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cloudflare workers
+cloudflare-workers/**/.wrangler
+cloudflare-workers/**/node_modules
+cloudflare-workers/**/.dev.vars
+cloudflare-workers/**/dist

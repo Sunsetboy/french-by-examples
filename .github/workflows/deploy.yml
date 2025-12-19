@@ -32,6 +32,12 @@ jobs:
         run: npm ci
 
       - name: Build with Next.js
+        env:
+          NEXT_PUBLIC_ANALYTICS_ENDPOINT: ${{ secrets.NEXT_PUBLIC_ANALYTICS_ENDPOINT }}
+          NEXT_PUBLIC_STATS_API_ENDPOINT: ${{ secrets.NEXT_PUBLIC_STATS_API_ENDPOINT }}
+          NEXT_PUBLIC_ANALYTICS_ENABLED: ${{ secrets.NEXT_PUBLIC_ANALYTICS_ENABLED }}
+          NEXT_PUBLIC_ANALYTICS_API_KEY: ${{ secrets.NEXT_PUBLIC_ANALYTICS_API_KEY }}
+          NEXT_PUBLIC_ANALYTICS_PASSWORD: ${{ secrets.NEXT_PUBLIC_ANALYTICS_PASSWORD }}
         run: npm run build
 
       - name: Upload artifact
