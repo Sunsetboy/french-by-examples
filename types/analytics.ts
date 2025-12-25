@@ -70,4 +70,10 @@ export interface RealtimeEvent {
   timestamp: number;
 }
 
+export interface PageviewsOverTime {
+  date: string;
+  views: number;
+  unique: number;
+}
+
 export type TimePeriod = '24h' | '7d' | '30d' | '90d';

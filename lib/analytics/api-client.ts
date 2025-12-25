@@ -7,6 +7,7 @@ import type {
   DeviceStats,
   GeographyStat,
   RealtimeEvent,
+  PageviewsOverTime,
   TimePeriod,
 } from '@/types/analytics';
 
@@ -75,4 +76,11 @@ export async function getGeographyStats(period: TimePeriod = '7d'): Promise<Geog
  */
 export async function getRealtimeEvents(): Promise<RealtimeEvent[]> {
   return fetchStats<RealtimeEvent[]>('/realtime');
+}
+
+/**
+ * Get pageviews over time for a given period
+ */
+export async function getPageviewsOverTime(period: TimePeriod = '7d'): Promise<PageviewsOverTime[]> {
+  return fetchStats<PageviewsOverTime[]>(`/pageviews-over-time?period=${period}`);
 }

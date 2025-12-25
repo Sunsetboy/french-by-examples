@@ -50,6 +50,9 @@ export default {
 
       if (path.endsWith('/overview')) {
         response = await getOverviewStats(env.DB);
+      } else if (path.endsWith('/pageviews-over-time')) {
+        const period = url.searchParams.get('period') || '7d';
+        response = await getPageviewsOverTime(env.DB, period);
       } else if (path.endsWith('/pages')) {
         const period = url.searchParams.get('period') || '7d';
         response = await getTopPages(env.DB, period);
@@ -235,6 +238,24 @@ async function getRealtimeEvents(db: D1Database) {
     ORDER BY created_at DESC
     LIMIT 100
   `).bind(fiveMinutesAgo).all();
+
+  return result.results || [];
+}
+
+async function getPageviewsOverTime(db: D1Database, period: string) {
+  const since = getTimeRange(period);
+
+  // Get pageviews grouped by day
+  const result = await db.prepare(`
+    SELECT
+      DATE(created_at / 1000, 'unixepoch') as date,
+      COUNT(*) as views,
+      COUNT(DISTINCT visitor_id) as unique
+    FROM pageviews
+    WHERE created_at >= ?
+    GROUP BY date
+    ORDER BY date ASC
+  `).bind(since).all();
 
   return result.results || [];
 }

@@ -15,6 +15,7 @@ import {
   getDeviceStats,
   getGeographyStats,
   getRealtimeEvents,
+  getPageviewsOverTime,
 } from '@/lib/analytics/api-client';
 import type {
   AnalyticsStats,
@@ -23,6 +24,7 @@ import type {
   DeviceStats,
   GeographyStat,
   RealtimeEvent,
+  PageviewsOverTime,
   TimePeriod,
 } from '@/types/analytics';
 
@@ -35,6 +37,7 @@ export default function AnalyticsPage() {
   // Dashboard data
   const [period, setPeriod] = useState<TimePeriod>('7d');
   const [overviewStats, setOverviewStats] = useState<AnalyticsStats | null>(null);
+  const [pageviewsOverTime, setPageviewsOverTime] = useState<PageviewsOverTime[]>([]);
   const [topPages, setTopPages] = useState<PageStat[]>([]);
   const [referrers, setReferrers] = useState<ReferrerStat[]>([]);
   const [deviceStats, setDeviceStats] = useState<DeviceStats | null>(null);
@@ -65,6 +68,7 @@ export default function AnalyticsPage() {
     try {
       const [
         overview,
+        pageviews,
         pages,
         refs,
         devices,
@@ -72,6 +76,7 @@ export default function AnalyticsPage() {
         realtime,
       ] = await Promise.all([
         getOverviewStats(),
+        getPageviewsOverTime(period),
         getTopPages(period),
         getReferrers(period),
         getDeviceStats(period),
@@ -80,6 +85,7 @@ export default function AnalyticsPage() {
       ]);
 
       setOverviewStats(overview);
+      setPageviewsOverTime(pageviews);
       setTopPages(pages);
       setReferrers(refs);
       setDeviceStats(devices);
@@ -228,18 +234,7 @@ export default function AnalyticsPage() {
 
       {/* Pageviews Chart */}
       <div className="mb-8">
-        <PageviewsChart
-          data={[
-            // Placeholder data - replace with actual data from API
-            { date: '2024-01-01', views: 120, unique: 80 },
-            { date: '2024-01-02', views: 150, unique: 95 },
-            { date: '2024-01-03', views: 180, unique: 110 },
-            { date: '2024-01-04', views: 200, unique: 130 },
-            { date: '2024-01-05', views: 165, unique: 105 },
-            { date: '2024-01-06', views: 190, unique: 120 },
-            { date: '2024-01-07', views: 210, unique: 140 },
-          ]}
-        />
+        <PageviewsChart data={pageviewsOverTime} />
       </div>
 
       {/* Two Column Layout */}
