@@ -248,12 +248,12 @@ async function getPageviewsOverTime(db: D1Database, period: string) {
   // Get pageviews grouped by day
   const result = await db.prepare(`
     SELECT
-      DATE(created_at / 1000, 'unixepoch') as date,
+      strftime('%Y-%m-%d', created_at / 1000, 'unixepoch') as date,
       COUNT(*) as views,
       COUNT(DISTINCT visitor_id) as unique
     FROM pageviews
     WHERE created_at >= ?
-    GROUP BY date
+    GROUP BY strftime('%Y-%m-%d', created_at / 1000, 'unixepoch')
     ORDER BY date ASC
   `).bind(since).all();
 

@@ -66,15 +66,7 @@ export default function AnalyticsPage() {
     setError(null);
 
     try {
-      const [
-        overview,
-        pageviews,
-        pages,
-        refs,
-        devices,
-        geo,
-        realtime,
-      ] = await Promise.all([
+      const results = await Promise.allSettled([
         getOverviewStats(),
         getPageviewsOverTime(period),
         getTopPages(period),
@@ -84,13 +76,55 @@ export default function AnalyticsPage() {
         getRealtimeEvents(),
       ]);
 
-      setOverviewStats(overview);
-      setPageviewsOverTime(pageviews);
-      setTopPages(pages);
-      setReferrers(refs);
-      setDeviceStats(devices);
-      setGeography(geo);
-      setRealtimeEvents(realtime);
+      // Handle each result individually
+      if (results[0].status === 'fulfilled') {
+        setOverviewStats(results[0].value);
+      } else {
+        console.error('Failed to load overview stats:', results[0].reason);
+      }
+
+      if (results[1].status === 'fulfilled') {
+        setPageviewsOverTime(results[1].value);
+      } else {
+        console.error('Failed to load pageviews over time:', results[1].reason);
+        setPageviewsOverTime([]); // Set empty array as fallback
+      }
+
+      if (results[2].status === 'fulfilled') {
+        setTopPages(results[2].value);
+      } else {
+        console.error('Failed to load top pages:', results[2].reason);
+      }
+
+      if (results[3].status === 'fulfilled') {
+        setReferrers(results[3].value);
+      } else {
+        console.error('Failed to load referrers:', results[3].reason);
+      }
+
+      if (results[4].status === 'fulfilled') {
+        setDeviceStats(results[4].value);
+      } else {
+        console.error('Failed to load device stats:', results[4].reason);
+      }
+
+      if (results[5].status === 'fulfilled') {
+        setGeography(results[5].value);
+      } else {
+        console.error('Failed to load geography:', results[5].reason);
+      }
+
+      if (results[6].status === 'fulfilled') {
+        setRealtimeEvents(results[6].value);
+      } else {
+        console.error('Failed to load realtime events:', results[6].reason);
+      }
+
+      // Show warning if any requests failed
+      const failedCount = results.filter(r => r.status === 'rejected').length;
+      if (failedCount > 0) {
+        console.warn(`${failedCount} analytics endpoint(s) failed to load`);
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to load analytics data');
     } finally {
