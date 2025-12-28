@@ -250,7 +250,7 @@ async function getPageviewsOverTime(db: D1Database, period: string) {
     SELECT
       strftime('%Y-%m-%d', created_at / 1000, 'unixepoch') as date,
       COUNT(*) as views,
-      COUNT(DISTINCT visitor_id) as unique
+      COUNT(DISTINCT visitor_id) as unique_visitors
     FROM pageviews
     WHERE created_at >= ?
     GROUP BY strftime('%Y-%m-%d', created_at / 1000, 'unixepoch')

@@ -73,7 +73,7 @@ export interface RealtimeEvent {
 export interface PageviewsOverTime {
   date: string;
   views: number;
-  unique: number;
+  unique_visitors: number;
 }
 
 export type TimePeriod = '24h' | '7d' | '30d' | '90d';

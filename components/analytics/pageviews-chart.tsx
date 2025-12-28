@@ -3,7 +3,7 @@
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 interface PageviewsChartProps {
-  data: Array<{ date: string; views: number; unique: number }>;
+  data: Array<{ date: string; views: number; unique_visitors: number }>;
 }
 
 export function PageviewsChart({ data }: PageviewsChartProps) {
@@ -39,7 +39,7 @@ export function PageviewsChart({ data }: PageviewsChartProps) {
           />
           <Line
             type="monotone"
-            dataKey="unique"
+            dataKey="unique_visitors"
             stroke="#10B981"
             strokeWidth={2}
             name="Unique Visitors"
