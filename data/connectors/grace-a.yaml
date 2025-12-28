@@ -1,0 +1,22 @@
+term: "grâce à"
+translation: "thanks to, because of (positive)"
+type:
+  - cause
+cefrLevel: "B1"
+formality: "neutral"
+description: "Expresses positive causality - indicates that something good happened because of someone or something. The positive counterpart to 'à cause de'."
+usage: "Followed by a noun or pronoun. Always implies a positive outcome or beneficial cause."
+examples:
+  - french: "J'ai réussi mon examen grâce à ton aide."
+    english: "I passed my exam thanks to your help."
+    context: "Thanking someone for help"
+  - french: "Grâce à Internet, nous pouvons communiquer facilement."
+    english: "Thanks to the Internet, we can communicate easily."
+    context: "Acknowledging a beneficial tool"
+  - french: "Il a retrouvé son chemin grâce à son téléphone."
+    english: "He found his way thanks to his phone."
+    context: "Positive result from using something"
+synonyms:
+  - "à l'aide de"
+  - "par"
+notes: "ONLY for positive outcomes! For negative causes, use 'à cause de'. This distinction is important in French."

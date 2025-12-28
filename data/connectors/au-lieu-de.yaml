@@ -1,0 +1,23 @@
+term: "au lieu de"
+translation: "instead of"
+type:
+  - opposition
+  - comparison
+cefrLevel: "B1"
+formality: "neutral"
+description: "Indicates replacement or substitution of one action, thing, or person by another. Expresses what should have been done versus what was done."
+usage: "Followed by a noun or infinitive verb. Shows a contrast between what happens and what could/should have happened."
+examples:
+  - french: "Au lieu de regarder la télé, tu devrais faire tes devoirs."
+    english: "Instead of watching TV, you should do your homework."
+    context: "Suggesting a better alternative"
+  - french: "Il a pris le bus au lieu de marcher."
+    english: "He took the bus instead of walking."
+    context: "Describing a choice made"
+  - french: "Au lieu d'un café, je vais prendre un thé."
+    english: "Instead of a coffee, I'll have a tea."
+    context: "Replacing one thing with another"
+synonyms:
+  - "plutôt que"
+  - "à la place de"
+notes: "When followed by a verb, must use the infinitive form. Very useful for expressing alternatives and contrasts."

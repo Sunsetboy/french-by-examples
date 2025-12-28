@@ -1,0 +1,24 @@
+term: "d'abord"
+translation: "first, firstly, at first"
+type:
+  - time
+  - addition
+cefrLevel: "A2"
+formality: "neutral"
+description: "Indicates the first step in a sequence or the initial state of something. Essential for organizing thoughts and narrating events."
+usage: "Used to introduce the first point in a list, the first step in instructions, or to describe an initial situation or impression."
+examples:
+  - french: "D'abord, on mélange la farine et les œufs."
+    english: "First, we mix the flour and eggs."
+    context: "Giving cooking instructions"
+  - french: "D'abord, elle ne m'aimait pas, mais maintenant on est amis."
+    english: "At first, she didn't like me, but now we're friends."
+    context: "Describing how things changed over time"
+  - french: "Il faut d'abord comprendre le problème avant de chercher une solution."
+    english: "You must first understand the problem before looking for a solution."
+    context: "Explaining logical sequence"
+synonyms:
+  - "premièrement"
+  - "tout d'abord"
+  - "en premier lieu"
+notes: "Often paired with 'ensuite' (then/next) and 'enfin' (finally) to structure discourse. 'Tout d'abord' is slightly more formal."

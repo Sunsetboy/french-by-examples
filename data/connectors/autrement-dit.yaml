@@ -1,0 +1,24 @@
+term: "autrement dit"
+translation: "in other words, that is to say"
+type:
+  - example
+  - emphasis
+cefrLevel: "B2"
+formality: "formal"
+description: "Used to reformulate or clarify what was just said in different, often simpler terms. Helps ensure understanding by restating an idea."
+usage: "Introduces a rephrasing or clarification of a previous statement. Common in explanatory or educational contexts."
+examples:
+  - french: "Il est procrastinateur, autrement dit, il reporte toujours tout à demain."
+    english: "He's a procrastinator, in other words, he always puts everything off until tomorrow."
+    context: "Explaining a term with simpler words"
+  - french: "Le projet a échoué. Autrement dit, nous devons recommencer."
+    english: "The project failed. In other words, we have to start over."
+    context: "Clarifying the consequences"
+  - french: "C'est indispensable, autrement dit, absolument nécessaire."
+    english: "It's indispensable, in other words, absolutely necessary."
+    context: "Reinforcing with a synonym"
+synonyms:
+  - "c'est-à-dire"
+  - "en d'autres termes"
+  - "pour le dire autrement"
+notes: "Useful for ensuring clear communication. More formal than 'c'est-à-dire'. Common in academic and professional settings."

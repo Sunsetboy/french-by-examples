@@ -1,0 +1,94 @@
+title: "Sequencing and Adding Information"
+description: "Practice organizing your thoughts with connectors for time sequences and adding information. Essential for clear, structured French communication."
+cefrLevel: "A2"
+types:
+  - time
+  - addition
+questions:
+  - id: "q1"
+    sentence: "___, il faut préchauffer le four à 180 degrés."
+    correctAnswer: "D'abord"
+    options:
+      - "Ensuite"
+      - "D'abord"
+      - "Enfin"
+      - "Après"
+    explanation: "'D'abord' means 'first' or 'firstly' and introduces the first step in a sequence."
+    translation: "First, you need to preheat the oven to 180 degrees."
+
+  - id: "q2"
+    sentence: "Ce restaurant est délicieux, et ___ c'est pas cher !"
+    correctAnswer: "en plus"
+    options:
+      - "donc"
+      - "mais"
+      - "en plus"
+      - "alors"
+    explanation: "'En plus' adds extra positive information casually. Similar to 'on top of that' or 'what's more'."
+    translation: "This restaurant is delicious, and on top of that it's not expensive!"
+
+  - id: "q3"
+    sentence: "D'abord, on mélange les ingrédients. ___, on met au four."
+    correctAnswer: "Ensuite"
+    options:
+      - "D'abord"
+      - "Ensuite"
+      - "Enfin"
+      - "Avant"
+    explanation: "'Ensuite' means 'then' or 'next' and follows 'd'abord' in a sequence."
+    translation: "First, we mix the ingredients. Then, we put it in the oven."
+
+  - id: "q4"
+    sentence: "Elle parle français et anglais, ___ elle apprend l'espagnol."
+    correctAnswer: "en plus"
+    options:
+      - "donc"
+      - "en plus"
+      - "mais"
+      - "car"
+    explanation: "'En plus' adds impressive additional information. She already speaks two languages AND is learning another."
+    translation: "She speaks French and English, and on top of that she's learning Spanish."
+
+  - id: "q5"
+    sentence: "Il a présenté ses arguments. ___, il a répondu aux questions."
+    correctAnswer: "Ensuite"
+    options:
+      - "D'abord"
+      - "Ensuite"
+      - "Avant"
+      - "Pendant"
+    explanation: "'Ensuite' indicates what happened after. First he presented, then he answered questions."
+    translation: "He presented his arguments. Then, he answered questions."
+
+  - id: "q6"
+    sentence: "Le film était long, ___ il était ennuyeux."
+    correctAnswer: "en plus"
+    options:
+      - "donc"
+      - "en plus"
+      - "ensuite"
+      - "d'abord"
+    explanation: "'En plus' adds a second negative aspect. The movie was long, and to make matters worse, it was boring."
+    translation: "The movie was long, and on top of that it was boring."
+
+  - id: "q7"
+    sentence: "___, je ne savais pas parler français, mais maintenant je me débrouille."
+    correctAnswer: "D'abord"
+    options:
+      - "D'abord"
+      - "Ensuite"
+      - "Enfin"
+      - "Après"
+    explanation: "'D'abord' can mean 'at first' when describing how something was initially, before it changed."
+    translation: "At first, I couldn't speak French, but now I get by."
+
+  - id: "q8"
+    sentence: "C'est loin, ___ je n'ai pas de voiture."
+    correctAnswer: "en plus"
+    options:
+      - "donc"
+      - "ensuite"
+      - "en plus"
+      - "d'abord"
+    explanation: "'En plus' adds a complicating factor. It's far away, and the additional problem is having no car."
+    translation: "It's far, and on top of that I don't have a car."

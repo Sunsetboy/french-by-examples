@@ -1,0 +1,24 @@
+term: "de sorte que"
+translation: "so that, in such a way that"
+type:
+  - consequence
+  - cause
+cefrLevel: "B2"
+formality: "formal"
+description: "Expresses consequence or result, often implying manner or method. Can indicate either actual result (+ indicative) or intended result (+ subjunctive)."
+usage: "Followed by indicative when expressing actual result, subjunctive when expressing intended purpose. Common in formal writing and speech."
+examples:
+  - french: "Il a bien expliqué, de sorte que tout le monde a compris."
+    english: "He explained well, so that everyone understood."
+    context: "Actual result - indicative"
+  - french: "Parlez clairement de sorte que nous puissions comprendre."
+    english: "Speak clearly so that we can understand."
+    context: "Intended purpose - subjunctive"
+  - french: "Elle a organisé son temps de sorte qu'elle finisse tout à temps."
+    english: "She organized her time in such a way that she finishes everything on time."
+    context: "Method leading to result"
+synonyms:
+  - "si bien que"
+  - "de manière que"
+  - "de façon que"
+notes: "Mood choice matters! Indicative = actual consequence; Subjunctive = intended purpose. More formal than 'donc'."

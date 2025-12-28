@@ -1,0 +1,23 @@
+term: "quoique"
+translation: "although, though"
+type:
+  - opposition
+cefrLevel: "C1"
+formality: "formal"
+description: "Formal connector expressing concession, similar to 'bien que' but more literary. Always followed by the subjunctive mood."
+usage: "Must be followed by subjunctive. Used in formal or literary contexts to express concession. Can sometimes appear alone as a hesitation marker in speech (informal usage)."
+examples:
+  - french: "Quoiqu'il soit jeune, il a beaucoup d'expérience."
+    english: "Although he's young, he has a lot of experience."
+    context: "Formal concession"
+  - french: "Quoique ce soit difficile, ce n'est pas impossible."
+    english: "Although it's difficult, it's not impossible."
+    context: "Acknowledging difficulty while maintaining optimism"
+  - french: "Elle a réussi, quoiqu'elle ait eu peu de temps."
+    english: "She succeeded, although she had little time."
+    context: "Success despite constraint"
+synonyms:
+  - "bien que"
+  - "même si"
+  - "malgré que"
+notes: "ALWAYS requires subjunctive in formal usage! Very formal/literary. Conversationally, 'quoique' alone can mean 'well...' or 'though...' (hesitation)."

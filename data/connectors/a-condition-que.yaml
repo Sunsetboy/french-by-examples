@@ -1,0 +1,23 @@
+term: "à condition que"
+translation: "provided that, on the condition that"
+type:
+  - condition
+cefrLevel: "B2"
+formality: "formal"
+description: "Introduces a strict condition that must be met for something else to happen. Expresses a requirement or prerequisite."
+usage: "Must be followed by the subjunctive mood. Used to state an essential condition for an action or agreement."
+examples:
+  - french: "Je viendrai à condition que tu viennes aussi."
+    english: "I'll come provided that you come too."
+    context: "Setting a personal condition"
+  - french: "Tu peux sortir à condition que tu finisses tes devoirs."
+    english: "You can go out provided that you finish your homework."
+    context: "Parent setting conditions"
+  - french: "Nous acceptons, à condition que le prix soit raisonnable."
+    english: "We accept, on the condition that the price is reasonable."
+    context: "Business negotiation"
+synonyms:
+  - "pourvu que"
+  - "à condition de"
+  - "si"
+notes: "ALWAYS requires subjunctive! 'À condition de' + infinitive when same subject. More formal than simple 'si'."

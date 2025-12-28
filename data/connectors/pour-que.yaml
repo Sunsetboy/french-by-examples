@@ -1,0 +1,23 @@
+term: "pour que"
+translation: "so that, in order that"
+type:
+  - cause
+  - condition
+cefrLevel: "B1"
+formality: "neutral"
+description: "Expresses purpose or goal. Indicates the intended result or reason for an action. Always followed by the subjunctive mood."
+usage: "Must be followed by the subjunctive mood. Used when the subject of the purpose is different from the subject of the main action. If subjects are the same, use 'pour' + infinitive instead."
+examples:
+  - french: "Je t'explique lentement pour que tu comprennes bien."
+    english: "I'm explaining slowly so that you understand well."
+    context: "Different subjects: I explain / you understand"
+  - french: "Elle parle fort pour que tout le monde l'entende."
+    english: "She's speaking loudly so that everyone can hear her."
+    context: "Expressing the purpose of an action"
+  - french: "Nous partons tôt pour que nous puissions éviter le trafic."
+    english: "We're leaving early so that we can avoid traffic."
+    context: "Explaining the reason for timing"
+synonyms:
+  - "afin que"
+  - "de sorte que"
+notes: "ALWAYS requires subjunctive! Remember: 'pour que' + subjunctive (different subjects) vs 'pour' + infinitive (same subject)."

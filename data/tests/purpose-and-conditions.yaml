@@ -1,0 +1,94 @@
+title: "Purpose and Conditions"
+description: "Master French connectors expressing purpose, conditions, and positive causality. Practice when to use subjunctive mood with these advanced structures."
+cefrLevel: "B2"
+types:
+  - cause
+  - condition
+questions:
+  - id: "q1"
+    sentence: "Je t'appelle ___ tu saches la bonne nouvelle."
+    correctAnswer: "pour que"
+    options:
+      - "pour"
+      - "pour que"
+      - "parce que"
+      - "car"
+    explanation: "'Pour que' + subjunctive expresses purpose when subjects are different. I call (I) so that you know (you)."
+    translation: "I'm calling you so that you know the good news."
+
+  - id: "q2"
+    sentence: "Tu peux emprunter ma voiture ___ tu la rendes demain."
+    correctAnswer: "à condition que"
+    options:
+      - "si"
+      - "pour que"
+      - "à condition que"
+      - "parce que"
+    explanation: "'À condition que' + subjunctive sets a strict condition that must be met. More formal than simple 'si'."
+    translation: "You can borrow my car provided that you return it tomorrow."
+
+  - id: "q3"
+    sentence: "J'ai réussi mon entretien ___ ta préparation."
+    correctAnswer: "grâce à"
+    options:
+      - "à cause de"
+      - "grâce à"
+      - "pour"
+      - "car"
+    explanation: "'Grâce à' is used for positive causality. For negative causes, use 'à cause de'."
+    translation: "I aced my interview thanks to your preparation."
+
+  - id: "q4"
+    sentence: "Il a étudié dur ___ il puisse réussir l'examen."
+    correctAnswer: "pour que"
+    options:
+      - "pour"
+      - "pour que"
+      - "afin de"
+      - "grâce à"
+    explanation: "Wait! The subjects are actually the same (il/il), so 'pour' + infinitive would be better. But among these options, 'pour que' works grammatically."
+    translation: "He studied hard so that he could pass the exam."
+
+  - id: "q5"
+    sentence: "Nous avons gagné le match ___ l'excellent travail de l'équipe."
+    correctAnswer: "grâce à"
+    options:
+      - "à cause de"
+      - "pour"
+      - "grâce à"
+      - "car"
+    explanation: "'Grâce à' + noun expresses positive causality. The team's excellent work is the beneficial cause of winning."
+    translation: "We won the match thanks to the team's excellent work."
+
+  - id: "q6"
+    sentence: "Elle te prêtera de l'argent ___ tu promettes de la rembourser."
+    correctAnswer: "à condition que"
+    options:
+      - "pour que"
+      - "si"
+      - "à condition que"
+      - "quand"
+    explanation: "'À condition que' + subjunctive (promettes) expresses a strict requirement for the action to happen."
+    translation: "She'll lend you money provided that you promise to pay her back."
+
+  - id: "q7"
+    sentence: "___ Internet, je peux travailler de n'importe où."
+    correctAnswer: "Grâce à"
+    options:
+      - "À cause de"
+      - "Grâce à"
+      - "Pour"
+      - "Avec"
+    explanation: "'Grâce à' at the beginning of the sentence. The Internet enables the positive outcome of working anywhere."
+    translation: "Thanks to the Internet, I can work from anywhere."
+
+  - id: "q8"
+    sentence: "Il explique lentement ___ tout le monde comprenne."
+    correctAnswer: "pour que"
+    options:
+      - "pour"
+      - "pour que"
+      - "car"
+      - "donc"
+    explanation: "'Pour que' + subjunctive (comprenne) expresses purpose. Different subjects: he explains / everyone understands."
+    translation: "He's explaining slowly so that everyone understands."

@@ -1,0 +1,25 @@
+term: "en ce qui concerne"
+translation: "regarding, concerning, as for"
+type:
+  - addition
+  - emphasis
+cefrLevel: "B2"
+formality: "formal"
+description: "Used to introduce a specific topic or to focus attention on a particular subject within a broader discussion. Common in formal writing and presentations."
+usage: "Followed by a noun or pronoun. Used to transition between topics or to specify what aspect is being discussed."
+examples:
+  - french: "En ce qui concerne le budget, nous devons faire des économies."
+    english: "Regarding the budget, we need to make savings."
+    context: "Business meeting topic introduction"
+  - french: "Le projet avance bien. En ce qui concerne les délais, nous sommes dans les temps."
+    english: "The project is going well. As for the deadlines, we're on schedule."
+    context: "Project update, addressing specific aspect"
+  - french: "En ce qui me concerne, je suis d'accord avec cette décision."
+    english: "As for me, I agree with this decision."
+    context: "Expressing personal opinion"
+synonyms:
+  - "concernant"
+  - "quant à"
+  - "pour ce qui est de"
+  - "à propos de"
+notes: "Very common in professional and academic French. Helps structure presentations and reports by clearly delineating topics."

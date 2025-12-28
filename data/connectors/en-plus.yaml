@@ -1,0 +1,23 @@
+term: "en plus"
+translation: "moreover, in addition, on top of that"
+type:
+  - addition
+cefrLevel: "A2"
+formality: "informal"
+description: "Casual connector used to add information or emphasize an additional point. Very common in everyday spoken French."
+usage: "Typically used in informal contexts to add extra information, often at the end of a sentence. Can express both positive and negative additions."
+examples:
+  - french: "C'est délicieux, et en plus c'est pas cher !"
+    english: "It's delicious, and on top of that it's not expensive!"
+    context: "Adding a positive point"
+  - french: "Il pleut, en plus j'ai oublié mon parapluie."
+    english: "It's raining, and to make matters worse I forgot my umbrella."
+    context: "Adding to a bad situation"
+  - french: "Elle parle anglais, français, et en plus elle apprend le chinois."
+    english: "She speaks English, French, and on top of that she's learning Chinese."
+    context: "Adding impressive information"
+synonyms:
+  - "de plus"
+  - "en outre"
+  - "qui plus est"
+notes: "Very common in spoken French. More casual than 'de plus' or 'en outre'. Often used with 'et' before it."
